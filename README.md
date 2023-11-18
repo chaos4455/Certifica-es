@@ -79,24 +79,16 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 - [Gerenciamento Servidor Web Apache Linux](https://github.com/chaos4455/Certifica-es/blob/main/F2A9A279.pdf) 🌐 1 hora
 - [Python Lista Avançado](https://github.com/chaos4455/Certifica-es/blob/main/FC3F4E92.pdf) 🐍 1 hora
 
-### [Certificação em Trabalho com Equipes Ágeis](https://github.com/chaos4455/Certifica-es/blob/main/C12C16DF.pdf) 🚀 3 horas
+- [Trabalho com Equipes Ágeis](https://github.com/chaos4455/Certifica-es/blob/main/C12C16DF.pdf) 🔄 3 horas
 
-#### Descrição:
+   - *Carga Horária:* 3 horas
+   - *Descrição:* Durante o curso, aprofundei-me nos conceitos fundamentais do trabalho com equipes ágeis, explorando metodologias como Scrum e Kanban. Ganhei uma compreensão sólida das práticas colaborativas, comunicação eficaz e gestão flexível de projetos. Além disso, adquiri habilidades práticas na aplicação de princípios ágeis para aumentar a eficiência e a entrega de valor em ambientes de desenvolvimento de software.
 
-A certificação em Trabalho com Equipes Ágeis proporcionou um aprofundamento nos seguintes conceitos:
-
-1. **Metodologias Ágeis:** Compreensão aprofundada das metodologias ágeis, incluindo Scrum, Kanban e XP. A aplicação prática dessas metodologias para melhorar a colaboração e entrega contínua foi enfatizada.
-
-2. **Scrum:** Entendimento das práticas Scrum, como Sprints, Daily Standups, Sprint Review e Retrospectives. Exploração do papel de Scrum Master, Product Owner e Development Team.
-
-3. **Kanban:** Conhecimento das práticas Kanban para visualização e otimização do fluxo de trabalho. Implementação de quadros Kanban para melhorar a visibilidade do trabalho.
-
-4. **XP (Extreme Programming):** Exploração dos princípios do XP, incluindo programação em pares, integração contínua, desenvolvimento orientado por testes (TDD) e refatoração.
-
-5. **Colaboração Efetiva:** Ênfase na importância da comunicação efetiva, colaboração interdisciplinar e feedback contínuo para o sucesso de equipes ágeis.
-
-Esta certificação fortaleceu minhas habilidades para trabalhar em ambientes ágeis, contribuindo para a entrega de projetos de forma mais eficiente, adaptável e orientada à qualidade.
-
+   - *Principais Tópicos:*
+     - **Metodologias Ágeis:** Exploração das metodologias Scrum e Kanban, compreendendo seus princípios e práticas.
+     - **Colaboração Efetiva:** Ênfase na importância da comunicação aberta, colaboração e trabalho em equipe.
+     - **Flexibilidade e Adaptação:** Como aplicar os princípios ágeis para se adaptar a mudanças frequentes nos requisitos do projeto.
+     - **Entrega Contínua de Valor:** Estratégias para garantir a entrega contínua de valor ao cliente ao longo do ciclo de desenvolvimento.
 
 Estou sempre em busca de atualizar meu conhecimento e aprimorar minhas habilidades para enfrentar os desafios do mundo tecnológico em constante evolução. Este repositório é um registro das minhas certificações e realizações, refletindo o compromisso constante com a excelência e o aprendizado contínuo.
 
