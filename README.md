@@ -9,8 +9,6 @@
 
 Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
 
-**Disclaimer:**
-Este repositório é mantido por Elias Andrade sob a licença da Replika Sistemas e ESA Digital, em parceria com a Plataforma Ventures. As aplicações e projetos aqui apresentados são parte de uma iniciativa em constante evolução, com o objetivo de criar soluções tecnológicas inovadoras para o mercado nacional e global.
 
 ---
 ---
