@@ -151,7 +151,7 @@ Este é um resumo da sua jornada tecnológica desde 2010 até 2022, destacando p
 
 Bem-vindo ao meu repositório de certificações e realizações profissionais. Me chamo Elias Andrade, sou Administrador de Redes e Especialista em Suporte Técnico, e este espaço reúne um pouco do meu caminho, conhecimento e conquistas ao longo da minha trajetória profissional.
 
-## 🎓 Certificações
+## 🎓 Treinamentos certificados
 
 1. **Certificação em Administração de Servidores Windows Server 2012**
    - *Instituição:* Rafael Bernantes Treinamentos - Microsoft MVP
@@ -173,7 +173,7 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
    - *Período:* Maio de 2018 - Junho de 2018
    - *Descrição:* Aprofundei-me na disciplina de Operações de Suporte e Análise do ITIL, capacitando-me para resolver incidentes, problemas e realizar análises críticas para melhorar continuamente os processos operacionais de TI.
 
-## 📄 CERTIFICADOS
+## 📄 Revalidação e Validação de conhecimento novembro/dezembro 2023
 
 - #### Infraestrutura
   
