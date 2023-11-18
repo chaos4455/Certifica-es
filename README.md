@@ -7,6 +7,9 @@
 
 Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
 
+---
+---
+
 ## Projeto: 2 Tutoriais por Dia no GitHub 🚀
 
 Estou envolvido no projeto "2 Tutoriais por Dia no GitHub para sempre", onde compartilho conhecimento diariamente. 
@@ -18,8 +21,7 @@ Estou envolvido no projeto "2 Tutoriais por Dia no GitHub para sempre", onde com
 ---
 ---
 ---
----
----
+
 
 # Jornada 2010-2023 🌟
 
