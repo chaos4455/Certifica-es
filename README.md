@@ -16,7 +16,9 @@ Estou envolvido no projeto "2 Tutoriais por Dia no GitHub para sempre", onde com
 ### 📚 [Explore os Tutoriais](https://github.com/chaos4455?tab=repositories&q=topic%3Atutorial&type=&language=&sort=)
 
 ---
-
+---
+---
+---
 
 # Jornada 2010-2023 🌟
 
