@@ -69,25 +69,15 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 - Responsável pela operação, configuração, suporte e gestão dos ativos de rede, informática e automação.
 - Monitoramento via Zabbix, suporte técnico para CFTV, configuração e implantação de PDV Linux.
 
-## 📄 Documentos
+## 📄 CERTIFICADOS
 
-- [05D29A8E.pdf](link_para_o_arquivo)
-- [05D29A8E.webp](link_para_o_arquivo)
-- [2F995260.pdf](link_para_o_arquivo)
-- [3EC3CA9E.pdf](link_para_o_arquivo)
-- [3EC3CA9E.webp](link_para_o_arquivo)
-- [5170035E.pdf](link_para_o_arquivo)
-- [5170035E.webp](link_para_o_arquivo)
-- [991BB73E.pdf](link_para_o_arquivo)
-- [991BB73E.webp](link_para_o_arquivo)
-- [B511287A.pdf](link_para_o_arquivo)
-- [C12C16DF.pdf](link_para_o_arquivo)
-- [C12C16DF.webp](link_para_o_arquivo)
-- [E535883A.webp](link_para_o_arquivo)
-- [F2A9A279.pdf](link_para_o_arquivo)
-- [F2A9A279.webp](link_para_o_arquivo)
-- [FC3F4E92.pdf](link_para_o_arquivo)
-- [FC3F4E92.webp](link_para_o_arquivo)
+- [Modelagem de Banco de Dados](https://github.com/chaos4455/Certifica-es/blob/main/05D29A8E.pdf) 📊 2 horas
+- [Servidor de Banco de Dados MySQL Linux](https://github.com/chaos4455/Certifica-es/blob/main/2F995260.pdf) 🐧 1 hora
+- [Acesso Remoto e SSH Ambiente Linux](https://github.com/chaos4455/Certifica-es/blob/main/3EC3CA9E.pdf) 🌐 2 horas
+- [Arquitetura de Banco de Dados](https://github.com/chaos4455/Certifica-es/blob/main/5170035E.pdf) 🏰 2 horas
+- [Gerenciamento de Discos Ambiente Linux](https://github.com/chaos4455/Certifica-es/blob/main/B511287A.pdf) 💽 1 hora
+- [Gerenciamento Servidor Web Apache Linux](https://github.com/chaos4455/Certifica-es/blob/main/F2A9A279.pdf) 🌐 1 hora
+- [Python Lista Avançado](https://github.com/chaos4455/Certifica-es/blob/main/FC3F4E92.pdf) 🐍 1 hora
 
 Estou sempre em busca de atualizar meu conhecimento e aprimorar minhas habilidades para enfrentar os desafios do mundo tecnológico em constante evolução. Este repositório é um registro das minhas certificações e realizações, refletindo o compromisso constante com a excelência e o aprendizado contínuo.
 
