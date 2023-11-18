@@ -1,10 +1,9 @@
 # Elias Andrade - Portfólio de Certificações e Conquistas
 ---
 ---
-[<img align="left" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" width="30" />](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
 [<img alt="American Flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" width="30">](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 [<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/chaos4455/HTML-Projects/main/img/profile.png" width="70%" />](https://www.linkedin.com/in/itilmgf)
-
+[<img align="left" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" width="30" />](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
 ## 📧 Contato
 
 Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
