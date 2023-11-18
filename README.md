@@ -182,17 +182,7 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 - [Gerenciamento de Discos Ambiente Linux](https://github.com/chaos4455/Certifica-es/blob/main/B511287A.pdf) 💽 1 hora
 - [Gerenciamento Servidor Web Apache Linux](https://github.com/chaos4455/Certifica-es/blob/main/F2A9A279.pdf) 🌐 1 hora
 - [Python Lista Avançado](https://github.com/chaos4455/Certifica-es/blob/main/FC3F4E92.pdf) 🐍 1 hora
-
 - [Trabalho com Equipes Ágeis](https://github.com/chaos4455/Certifica-es/blob/main/C12C16DF.pdf) 🔄 3 horas
-
-   - *Carga Horária:* 3 horas
-   - *Descrição:* Durante o curso, aprofundei-me nos conceitos fundamentais do trabalho com equipes ágeis, explorando metodologias como Scrum e Kanban. Ganhei uma compreensão sólida das práticas colaborativas, comunicação eficaz e gestão flexível de projetos. Além disso, adquiri habilidades práticas na aplicação de princípios ágeis para aumentar a eficiência e a entrega de valor em ambientes de desenvolvimento de software.
-
-   - *Principais Tópicos:*
-     - **Metodologias Ágeis:** Exploração das metodologias Scrum e Kanban, compreendendo seus princípios e práticas.
-     - **Colaboração Efetiva:** Ênfase na importância da comunicação aberta, colaboração e trabalho em equipe.
-     - **Flexibilidade e Adaptação:** Como aplicar os princípios ágeis para se adaptar a mudanças frequentes nos requisitos do projeto.
-     - **Entrega Contínua de Valor:** Estratégias para garantir a entrega contínua de valor ao cliente ao longo do ciclo de desenvolvimento.
 
 Estou sempre em busca de atualizar meu conhecimento e aprimorar minhas habilidades para enfrentar os desafios do mundo tecnológico em constante evolução. Este repositório é um registro das minhas certificações e realizações, refletindo o compromisso constante com a excelência e o aprendizado contínuo.
 
