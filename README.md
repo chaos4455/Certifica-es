@@ -142,6 +142,9 @@ A jornada de 2010 a 2022 foi repleta de aprendizados, desafios e crescimento. Ol
 ### Expertise em Sistemas
 - 🖱️ Proficiência em Windows e Linux
 - 🔒 Gestão de Segurança e Políticas (ISO 27001, GPO)
+- 🎯 Implantação do sistema de chamados OTRS
+- 🔄 Automação de auditoria e controle de backups
+- 📊 Criação de dashboards no Zabbix
 
 ---
 
@@ -164,11 +167,10 @@ A jornada de 2010 a 2022 foi repleta de aprendizados, desafios e crescimento. Ol
 
 ## 🚀 **Projetos Recentes e Inovações**
 
-### Transformando Ideias em Realidade
-- 🎯 Implantação do sistema de chamados OTRS
-- 🔄 Automação de auditoria e controle de backups
-- 📊 Criação de dashboards no Zabbix
-
+### Projetos Pessoais no GitHub
+- 📁 [Py-Crypt-Files](https://github.com/chaos4455/Py-Crypt-Files): Interface GUI para criptografia de arquivos (Python, PyQt5, cryptography)
+- 📁 [Py-Crypt-Messages](https://github.com/chaos4455/py-crypt-messages): Interface GUI para criptografia e descriptografia de mensagens usando RSA (Python, PyQt5, cryptography)
+- 📁 [Disparador de E-mails em Massa](https://github.com/chaos4455/Python-2023/tree/main/DISPARAEMAILAPP): Aplicativo Python para envio eficiente de e-mails em larga escala
 
 ---
 
