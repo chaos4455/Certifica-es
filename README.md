@@ -1,14 +1,14 @@
 # Elias Andrade - Portfólio de Certificações e Conquistas
 
 
-**Elias Andrade**
-
 [<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/chaos4455/HTML-Projects/main/img/profile.png" width="70%" />](https://www.linkedin.com/in/itilmgf)
 
 ## 📧 Contato
 
 Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
 
+---
+---
 ---
 ---
 ---
