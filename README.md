@@ -203,25 +203,6 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
    - *Período:* Maio de 2018 - Junho de 2018
    - *Descrição:* Aprofundei-me na disciplina de Operações de Suporte e Análise do ITIL, capacitando-me para resolver incidentes, problemas e realizar análises críticas para melhorar continuamente os processos operacionais de TI.
 
-## 🏆 Conquistas Profissionais
-
-**Administrador de Redes - CONFIDENCIAL - Comércio, Saúde e Bem-Estar**
-
-- Administrei e dei suporte em ambientes Windows Server 2012, DELL OPTIPLEX e servidores Windows Server 2008 virtualizados com VMware.
-- Implantei o Sistema de Gestão de Segurança da Informação (SGSI) baseado na ISO 27001.
-- Automatizei rotinas de deploy, recuperação de desastres e backups, utilizando Puppet Bolt, shell scripts e PowerShell.
-- Contribuí para a implantação do OTRS para controle de chamados e monitoramento do ambiente com Zabbix.
-
-**Auxiliar de Informática - Coca Cola FEMSA - Hewlett Packard Enterprise (HPE)**
-
-- Prestei suporte remoto e presencial em ambientes corporativos com Windows 7 Enterprise.
-- Suporte a desktops HP, instalação de sistemas via deploy, configuração de periféricos e suporte ao sistema ERP.
-
-**Analista de Informática - Grupo Agneloni (Loja 26 Angeloni Maringá)**
-
-- Responsável pela operação, configuração, suporte e gestão dos ativos de rede, informática e automação.
-- Monitoramento via Zabbix, suporte técnico para CFTV, configuração e implantação de PDV Linux.
-
 ## 📄 CERTIFICADOS
 
 - [Modelagem de Banco de Dados](https://github.com/chaos4455/Certifica-es/blob/main/05D29A8E.pdf) 📊 2 horas
