@@ -101,6 +101,78 @@ A jornada de 2010 a 2022 foi repleta de aprendizados, desafios e crescimento. Ol
 
 ---
 
+---
+
+## 🌐 **Infraestrutura e Redes**
+
+### Configuração Avançada
+- 🖥️ Administração de Redes Windows e Linux
+- 🌐 Virtualização de Servidores (VMware, Hyper-V)
+- 📊 Controle de Ativos e Documentação Detalhada
+
+---
+
+## ⚙️ **Suporte Técnico e Help Desk**
+
+### Suporte Multinível
+- ☎️ Suporte Remoto e Presencial
+- 🛠️ Manutenção de Equipamentos
+- 📹 Suporte para Videoconferência (CISCO SX20)
+
+---
+
+## 🤖 **Automatização e Scripting**
+
+### Eficiência com Códigos
+- 🔄 Automatização de Rotinas (Puppet Bolt, PowerShell)
+- 🚀 Processos Automáticos e Limpeza de Backups
+
+---
+
+## ☁️ **Virtualização e Cloud Computing**
+
+### Explorando a Nuvem
+- 🚧 Deploy de Servidores na Nuvem AWS
+- 🌀 Virtualização com Docker, Virtualbox e AWS EC2
+
+---
+
+## 🖥️ **Sistemas Operacionais e Segurança**
+
+### Expertise em Sistemas
+- 🖱️ Proficiência em Windows e Linux
+- 🔒 Gestão de Segurança e Políticas (ISO 27001, GPO)
+
+---
+
+## 📊 **Monitoramento e Produtividade**
+
+### Ferramentas Avançadas
+- 📈 Utilização Avançada de Zabbix e PTRG
+- 🛠️ Gestão de Produtividade com Trello, GitLab, Dropbox
+
+---
+
+## 🎓 **Educação Continuada e Certificações**
+
+### Aprendizado Constante
+- 📘 Bacharelado em Engenharia da Computação
+- 🎓 Pós-Graduação em Arquitetura e Gestão de Infraestrutura em TI
+- 🏆 Certificações em ITIL Operational Support and Analysis (OSA) e ITIL V3 Foundation
+
+---
+
+## 🚀 **Projetos Recentes e Inovações**
+
+### Transformando Ideias em Realidade
+- 🎯 Implantação do sistema de chamados OTRS
+- 🔄 Automação de auditoria e controle de backups
+- 📊 Criação de dashboards no Zabbix
+
+
+---
+
+Este é o meu perfil tecnológico, destacando áreas específicas de expertise. Se estiver buscando um profissional versátil e inovador, estou pronto para contribuir em projetos desafiadores! 🚀
 
 Este é um resumo da sua jornada tecnológica desde 2010 até 2022, destacando pontos cruciais. 
 
@@ -170,4 +242,12 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
      - **Entrega Contínua de Valor:** Estratégias para garantir a entrega contínua de valor ao cliente ao longo do ciclo de desenvolvimento.
 
 Estou sempre em busca de atualizar meu conhecimento e aprimorar minhas habilidades para enfrentar os desafios do mundo tecnológico em constante evolução. Este repositório é um registro das minhas certificações e realizações, refletindo o compromisso constante com a excelência e o aprendizado contínuo.
+
+
+## 🔗 **Redes Sociais e Repositórios de Projeto**
+
+### Conecte-se e Explore
+- [LinkedIn - Elias Andrade](https://www.linkedin.com/in/itilmgf)
+- [GitHub - Infraestrutura](https://github.com/devmga/Powershell-commandlets)
+- [GitHub - Programação Python, Estrutura de Dados e Banco de Dados](https://github.com/chaos4455/Estudos-2022)
 
