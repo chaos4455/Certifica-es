@@ -175,6 +175,8 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 
 ## 📄 CERTIFICADOS
 
+- #### Infraestrutura
+  
 - [Modelagem de Banco de Dados](https://github.com/chaos4455/Certifica-es/blob/main/05D29A8E.pdf) 📊 2 horas
 - [Servidor de Banco de Dados MySQL Linux](https://github.com/chaos4455/Certifica-es/blob/main/2F995260.pdf) 🐧 1 hora
 - [Acesso Remoto e SSH Ambiente Linux](https://github.com/chaos4455/Certifica-es/blob/main/3EC3CA9E.pdf) 🌐 2 horas
@@ -183,6 +185,9 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 - [Gerenciamento Servidor Web Apache Linux](https://github.com/chaos4455/Certifica-es/blob/main/F2A9A279.pdf) 🌐 1 hora
 - [Python Lista Avançado](https://github.com/chaos4455/Certifica-es/blob/main/FC3F4E92.pdf) 🐍 1 hora
 - [Trabalho com Equipes Ágeis](https://github.com/chaos4455/Certifica-es/blob/main/C12C16DF.pdf) 🔄 3 horas
+- [Certificação em Windows Server 2016 Core e PowerShell](Link_PDF_Certificação_Infraestrutura): 2.5 horas
+- [Certificação ITIL V3 Foundation](Link_PDF_Certificação_ITM): 6 horas
+- [Certificação ITAM - Gestão de Ativos em T.I](Link_PDF_Certificação_Suporte)
 
 Estou sempre em busca de atualizar meu conhecimento e aprimorar minhas habilidades para enfrentar os desafios do mundo tecnológico em constante evolução. Este repositório é um registro das minhas certificações e realizações, refletindo o compromisso constante com a excelência e o aprendizado contínuo.
 
