@@ -180,9 +180,9 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 
 - #### Principais certificados: 
 
-- [Certificação ITIL V3 Foundation]([Link_PDF_Certificação_ITM](https://github.com/chaos4455/Certifica-es/blob/main/UC-d48b6454-e474-437b-9a00-6826b246943f.pdf)) 6 horas
-- [Certificação ITAM - Gestão de Ativos em T.I]([Link_PDF_Certificação_Suporte](https://github.com/chaos4455/Certifica-es/blob/main/UC-3546ac4e-6cd9-4a9c-a2a7-699929c278d4.pdf))
-- [Certificação em Windows Server 2016 Core e PowerShell]([Link_PDF_Certificação_Infraestrutura](https://github.com/chaos4455/Certifica-es/blob/main/UC-dc92d127-d0d2-4697-84be-ef7eed9a0c12.pdf)) 2.5 horas
+- [Certificação ITIL V3 Foundation](Link_PDF_Certificação_ITM](https://github.com/chaos4455/Certifica-es/blob/main/UC-d48b6454-e474-437b-9a00-6826b246943f.pdf) 6 horas
+- [Certificação ITAM - Gestão de Ativos em T.I](Link_PDF_Certificação_Suporte](https://github.com/chaos4455/Certifica-es/blob/main/UC-3546ac4e-6cd9-4a9c-a2a7-699929c278d4.pdf)
+- [Certificação em Windows Server 2016 Core e PowerShell](Link_PDF_Certificação_Infraestrutura](https://github.com/chaos4455/Certifica-es/blob/main/UC-dc92d127-d0d2-4697-84be-ef7eed9a0c12.pdf) 2.5 horas
   
 - [Trabalho com Equipes Ágeis](https://github.com/chaos4455/Certifica-es/blob/main/C12C16DF.pdf) 🔄 3 horas
 
