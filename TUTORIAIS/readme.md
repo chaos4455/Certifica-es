@@ -18,3 +18,8 @@ O compromisso é claro: **dois tutoriais por dia**. A consistência é a chave d
 Contribuições, sugestões e feedback são sempre bem-vindos! Se você tiver algum tópico específico que gostaria de ver abordado ou se quiser colaborar, fique à vontade para abrir problemas, enviar solicitações de pull ou entrar em contato diretamente.
 
 Vamos aprender e crescer juntos! 🌱✨
+
+[**📚 Tutorial: Instalar OpenSSH no Linux**](https://github.com/chaos4455/Certifica-es/blob/main/TUTORIAIS/TUTORIAL_INSTALL_SSH_LINUX_.pdf)
+[**📚 Tutorial: Firewall UFW para Docker**](https://github.com/chaos4455/Certifica-es/blob/main/TUTORIAIS/Firewall_UFW_DOCKER.pdf)
+
+
