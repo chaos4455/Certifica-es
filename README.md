@@ -9,9 +9,13 @@ Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-m
 
 ## Projeto: 2 Tutoriais por Dia no GitHub 🚀
 
-Bem-vindo ao meu repositório de certificações e realizações profissionais! Atualmente, estou envolvido no projeto "2 Tutoriais por Dia no GitHub", onde compartilho conhecimento diariamente. 
+---
+
+Estou envolvido no projeto "2 Tutoriais por Dia no GitHub para sempre", onde compartilho conhecimento diariamente. 
 
 ### 📚 [Explore os Tutoriais](https://github.com/chaos4455?tab=repositories&q=topic%3Atutorial&type=&language=&sort=)
+
+---
 
 
 # Jornada 2010-2023 🌟
