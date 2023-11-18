@@ -1,5 +1,21 @@
 # Elias Andrade - Portfólio de Certificações e Conquistas
 
+
+**Elias Andrade**
+
+[<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/chaos4455/HTML-Projects/main/img/profile.png" width="70%" />](https://www.linkedin.com/in/itilmgf)
+
+## 📧 Contato
+
+Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
+
+**Disclaimer:**
+Este repositório é mantido por Elias Andrade sob a licença da Replika Sistemas e ESA Digital, em parceria com a Plataforma Ventures. As aplicações e projetos aqui apresentados são parte de uma iniciativa em constante evolução, com o objetivo de criar soluções tecnológicas inovadoras para o mercado nacional e global.
+
+---
+---
+---
+
 Bem-vindo ao meu repositório de certificações e realizações profissionais. Me chamo Elias Andrade, sou Administrador de Redes e Especialista em Suporte Técnico, e este espaço reúne um pouco do meu caminho, conhecimento e conquistas ao longo da minha trajetória profissional.
 
 ## 🎓 Certificações
@@ -65,18 +81,3 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 
 Estou sempre em busca de atualizar meu conhecimento e aprimorar minhas habilidades para enfrentar os desafios do mundo tecnológico em constante evolução. Este repositório é um registro das minhas certificações e realizações, refletindo o compromisso constante com a excelência e o aprendizado contínuo.
 
-...
-**Elias Andrade**
-
-[<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/chaos4455/HTML-Projects/main/img/profile.png" width="70%" />](https://www.linkedin.com/in/itilmgf)
-
-## 📧 Contato
-
-Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
-
-**Disclaimer:**
-Este repositório é mantido por Elias Andrade sob a licença da Replika Sistemas e ESA Digital, em parceria com a Plataforma Ventures. As aplicações e projetos aqui apresentados são parte de uma iniciativa em constante evolução, com o objetivo de criar soluções tecnológicas inovadoras para o mercado nacional e global.
-
----
----
----
