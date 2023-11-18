@@ -29,8 +29,7 @@ Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-m
 ---
 ---
 
-# Jornada 2010-2022 🌟
-
+# Jornada 2010-2023 🌟
 
 
 ## **Origens e Preparação Inicial**
@@ -53,30 +52,6 @@ Adotei o GitHub como meu diário técnico, compartilhando códigos, configuraç�
 
 ---
 
-## **Mestre em Sistemas Operacionais**
-
-💻 **2012-Atual: Windows e Linux**
-
-Desde 2012, dominei tanto o Windows quanto o Linux, construindo uma base sólida em ambientes diversos. Trabalhei na configuração, otimização e resolução de problemas em ambos os sistemas operacionais.
-
-🐧 **Jornada no Linux**
-
-Aprofundei-me nas entranhas do Linux, explorando suas nuances, administrando servidores e configurando ambientes de desenvolvimento. De scripts de shell a administração de servidores, o Linux tornou-se meu aliado.
-
----
-
-## **Do Infraestrutura ao Suporte**
-
-🔧 **2012-Atual: Infraestrutura e Suporte**
-
-Desde 2012, mergulhei nas áreas de infraestrutura e suporte, gerenciando redes, configurando servidores e fornecendo suporte técnico. Esta experiência ampla solidificou minha compreensão do ecossistema tecnológico.
-
-⚙️ **Introdução ao Docker**
-
-Em 2016, abracei o Docker, incorporando a virtualização de contêineres aos meus fluxos de trabalho. Essa adição trouxe flexibilidade e eficiência à implementação de aplicativos em ambientes diversos.
-
----
-
 ## **Atualização Periódica e Crescimento Contínuo**
 
 🔄 **A Cada 1-2 Anos: Atualizações Massivas**
@@ -91,15 +66,10 @@ Ao longo dos anos, apliquei meu conhecimento em projetos práticos, enfrentando 
 
 ## **Visão para o Futuro**
 
-🌌 **2022 em Diante: Rumo a Novos Horizontes**
+🌌 **2023 em Diante: Rumo a Novos Horizontes**
 
 Com uma base sólida, documentação robusta e amplo domínio técnico, estou preparado para os desafios futuros. Projetos ambiciosos, inovações tecnológicas e uma comunidade em constante evolução aguardam minha contribuição.
 
-✨ **Continuando a Jornada**
-
-A jornada de 2010 a 2022 foi repleta de aprendizados, desafios e crescimento. Olhando para frente, estou empolgado para continuar explorando novas tecnologias, compartilhando conhecimento e contribuindo para o avanço da comunidade.
-
----
 
 ---
 
