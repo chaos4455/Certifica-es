@@ -13,6 +13,18 @@ Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-m
 ---
 ---
 ---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
 Bem-vindo ao meu repositório de certificações e realizações profissionais. Me chamo Elias Andrade, sou Administrador de Redes e Especialista em Suporte Técnico, e este espaço reúne um pouco do meu caminho, conhecimento e conquistas ao longo da minha trajetória profissional.
 
