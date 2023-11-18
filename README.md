@@ -175,7 +175,7 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 
 ## 📄 Revalidação e Validação de conhecimento novembro/dezembro 2023
 
-- #### Infraestrutura
+- #### Em novembro de 2023, mediante não estar alocado no momento decidi revalidar meu conhecimento perante os últimos 5 anos que atuei fixo no cliente "confidencial", optei por revisitar áreas do conhecimento através de cursos e testes de validação do conhecimento das áreas em que atuo:
   
 - [Modelagem de Banco de Dados](https://github.com/chaos4455/Certifica-es/blob/main/05D29A8E.pdf) 📊 2 horas
 - [Servidor de Banco de Dados MySQL Linux](https://github.com/chaos4455/Certifica-es/blob/main/2F995260.pdf) 🐧 1 hora
