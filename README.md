@@ -79,5 +79,24 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 - [Gerenciamento Servidor Web Apache Linux](https://github.com/chaos4455/Certifica-es/blob/main/F2A9A279.pdf) 🌐 1 hora
 - [Python Lista Avançado](https://github.com/chaos4455/Certifica-es/blob/main/FC3F4E92.pdf) 🐍 1 hora
 
+### [Certificação em Trabalho com Equipes Ágeis](https://github.com/chaos4455/Certifica-es/blob/main/C12C16DF.pdf) 🚀 3 horas
+
+#### Descrição:
+
+A certificação em Trabalho com Equipes Ágeis proporcionou um aprofundamento nos seguintes conceitos:
+
+1. **Metodologias Ágeis:** Compreensão aprofundada das metodologias ágeis, incluindo Scrum, Kanban e XP. A aplicação prática dessas metodologias para melhorar a colaboração e entrega contínua foi enfatizada.
+
+2. **Scrum:** Entendimento das práticas Scrum, como Sprints, Daily Standups, Sprint Review e Retrospectives. Exploração do papel de Scrum Master, Product Owner e Development Team.
+
+3. **Kanban:** Conhecimento das práticas Kanban para visualização e otimização do fluxo de trabalho. Implementação de quadros Kanban para melhorar a visibilidade do trabalho.
+
+4. **XP (Extreme Programming):** Exploração dos princípios do XP, incluindo programação em pares, integração contínua, desenvolvimento orientado por testes (TDD) e refatoração.
+
+5. **Colaboração Efetiva:** Ênfase na importância da comunicação efetiva, colaboração interdisciplinar e feedback contínuo para o sucesso de equipes ágeis.
+
+Esta certificação fortaleceu minhas habilidades para trabalhar em ambientes ágeis, contribuindo para a entrega de projetos de forma mais eficiente, adaptável e orientada à qualidade.
+
+
 Estou sempre em busca de atualizar meu conhecimento e aprimorar minhas habilidades para enfrentar os desafios do mundo tecnológico em constante evolução. Este repositório é um registro das minhas certificações e realizações, refletindo o compromisso constante com a excelência e o aprendizado contínuo.
 
