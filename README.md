@@ -10,11 +10,11 @@ Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-m
 ---
 ---
 
-## Projeto: 2 Tutoriais por Dia no GitHub 🚀
+## 🚀 Projeto: 2 Tutoriais por Dia no GitHub
 
-Estou envolvido no projeto "2 Tutoriais por Dia no GitHub para sempre", onde compartilho conhecimento diariamente. 
+**Embarque nessa jornada de aprendizado contínuo! Desde 18/11/2023, estou compartilhando dois tutoriais por dia no GitHub.** 🌐✨
 
-### 📚 [Explore os Tutoriais](https://github.com/chaos4455?tab=repositories&q=topic%3Atutorial&type=&language=&sort=)
+Confira os tutoriais na [pasta dedicada](https://github.com/chaos4455/Certifica-es/tree/main/TUTORIAIS). 📚🔍
 
 ---
 ---
