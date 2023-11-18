@@ -9,6 +9,19 @@
 
 Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
 
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
 # Jornada 2010-2022 🌟
 
