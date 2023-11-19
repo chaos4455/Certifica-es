@@ -68,6 +68,11 @@ Com uma base sólida, documentação robusta e amplo domínio técnico, estou pr
 
 ---
 
+## 🔒 Segurança e Backup
+Implementação de políticas de grupo e procedimentos de backup para garantir segurança e disponibilidade de dados.
+- 🚀 Implementação de processos automatizados de Backup de dados avançado com politicas de retenção, redundância, deduplicagem e Limpeza de dados
+
+  
 ## 🌐 **Infraestrutura e Redes**
 
 ### Configuração Avançada
@@ -109,7 +114,8 @@ Como profissional de Suporte Técnico e Help Desk, possuo expertise em gestão d
 
 ### Eficiência com Códigos
 - 🔄 Automatização de Rotinas (Puppet Bolt, PowerShell)
-- 🚀 Processos Automáticos e Limpeza de Backups
+- [Repositório PowerShell](https://github.com/chaos4455/Devops-Powershell)
+
 
 ---
 
@@ -118,6 +124,7 @@ Como profissional de Suporte Técnico e Help Desk, possuo expertise em gestão d
 ### Explorando a Nuvem
 - 🚧 Deploy de Servidores na Nuvem AWS
 - 🌀 Osquestração de container com Docker, Kubernets, local e cloud com Amazon AWS EC2
+[Repositório Docker Commandlets](https://github.com/chaos4455/DockerCommandlets)
 
 ---
 
