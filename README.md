@@ -76,7 +76,6 @@ Com uma base sólida, documentação robusta e amplo domínio técnico, estou pr
 - **Certificação:** Especialista em Windows Server 2019
 - **Detalhes:** Confira meu conhecimento detalhado sobre Windows Server [aqui](https://github.com/chaos4455/Certifica-es/blob/main/windows-server.md).
 
-- 
 - 🌐 Virtualização de Servidores (VMware, Hyper-V)
 - 📊 Controle de Ativos e Documentação Detalhada
 
