@@ -82,14 +82,29 @@ Com uma base sólida, documentação robusta e amplo domínio técnico, estou pr
 
 ---
 
-## ⚙️ **Suporte Técnico e Help Desk**
-
-### Suporte Multinível
-- ☎️ Suporte Remoto e Presencial
-- 🛠️ Manutenção de Equipamentos
-- 📹 Suporte para Videoconferência (CISCO SX20)
+# ⚙️ Suporte Técnico e Help Desk
 
 ---
+
+## 🛠️ Gestão de Serviços
+Como profissional de Suporte Técnico e Help Desk, possuo expertise em gestão de serviços de TI, aplicando princípios e práticas fundamentais para garantir o bom funcionamento dos sistemas e a satisfação dos usuários. Minha abordagem inclui:
+
+### 🌐 IT Service Management (ITSM)
+- Implementação de processos eficientes para gerenciar e entregar serviços de TI de forma alinhada às necessidades do negócio.
+- Utilização de frameworks como ITIL (Information Technology Infrastructure Library) para otimizar a prestação de serviços.
+
+### 🔄 Incident Management
+- Resolução eficaz de incidentes, minimizando impactos nos usuários e garantindo a rápida recuperação de serviços.
+
+### 🔍 Problem Management
+- Identificação de causas raiz de problemas recorrentes, aplicando soluções definitivas para evitar reincidências.
+
+### 🚀 Change Management
+- Coordenação de mudanças no ambiente de TI, assegurando que alterações sejam implementadas com sucesso e sem impactos negativos.
+
+### 📈 Continuous Improvement
+- Compromisso com a melhoria contínua, avaliando constantemente os processos e buscando maneiras de otimizar a entrega de serviços.
+
 
 ## 🤖 **Automatização e Scripting**
 
@@ -103,7 +118,7 @@ Com uma base sólida, documentação robusta e amplo domínio técnico, estou pr
 
 ### Explorando a Nuvem
 - 🚧 Deploy de Servidores na Nuvem AWS
-- 🌀 Virtualização com Docker, Virtualbox e AWS EC2
+- 🌀 Osquestração de container com Docker, Kubernets, local e cloud com Amazon AWS EC2
 
 ---
 
