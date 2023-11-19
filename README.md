@@ -72,6 +72,11 @@ Com uma base sólida, documentação robusta e amplo domínio técnico, estou pr
 
 ### Configuração Avançada
 - 🖥️ Administração de Redes Windows e Linux
+- ## 🏆 Windows Server
+- **Certificação:** Especialista em Windows Server 2019
+- **Detalhes:** Confira meu conhecimento detalhado sobre Windows Server [aqui](https://github.com/chaos4455/Certifica-es/blob/main/windows-server.md).
+
+- 
 - 🌐 Virtualização de Servidores (VMware, Hyper-V)
 - 📊 Controle de Ativos e Documentação Detalhada
 
@@ -119,14 +124,6 @@ Com uma base sólida, documentação robusta e amplo domínio técnico, estou pr
 - 📈 Utilização Avançada de Zabbix e PTRG
 - 🛠️ Gestão de Produtividade com Trello, GitLab, Dropbox
 
----
-
-## 🎓 **Educação Continuada e Certificações**
-
-### Aprendizado Constante
-- 📘 Bacharelado em Engenharia da Computação
-- 🎓 Pós-Graduação em Arquitetura e Gestão de Infraestrutura em TI
-- 🏆 Certificações em ITIL Operational Support and Analysis (OSA) e ITIL V3 Foundation
 
 ---
 
@@ -173,7 +170,7 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 - #### Em novembro de 2023, mediante não estar alocado no momento decidi revalidar meu conhecimento perante os últimos 5 anos que atuei fixo no cliente "confidencial", optei por revisitar áreas do conhecimento através de cursos e testes de validação do conhecimento das áreas em que atuo:
 
 
-- #### Principais certificados: 
+- #### Principais trenamentos (atestados de conhecimento) : 
 
 - [Certificação ITIL V3 Foundation](https://github.com/chaos4455/Certifica-es/blob/main/UC-d48b6454-e474-437b-9a00-6826b246943f.pdf) 6 horas
 - [Certificação ITAM - Gestão de Ativos em T.I](https://github.com/chaos4455/Certifica-es/blob/main/UC-3546ac4e-6cd9-4a9c-a2a7-699929c278d4.pdf)
@@ -184,7 +181,7 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 - [Modelagem de Banco de Dados](https://github.com/chaos4455/Certifica-es/blob/main/05D29A8E.pdf) 📊 2 horas
 - [Arquitetura de Banco de Dados](https://github.com/chaos4455/Certifica-es/blob/main/5170035E.pdf) 🏰 2 horas
 
-- #### Certificados complementares :
+- #### Treinamentos  complementares :
   
 - [Servidor de Banco de Dados MySQL Linux](https://github.com/chaos4455/Certifica-es/blob/main/2F995260.pdf) 🐧 1 hora
 - [Acesso Remoto e SSH Ambiente Linux](https://github.com/chaos4455/Certifica-es/blob/main/3EC3CA9E.pdf) 🌐 2 horas
