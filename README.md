@@ -2,6 +2,11 @@
 
 ![Apresentação](https://raw.githubusercontent.com/chaos4455/py-dev/main/chrome_CiZLYinHdr.png) 
 
+[Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
+
+[View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
+
+
 ## 📌 Informações de Contato
 
 - 🏠 Localização: Maringá, Paraná, Brasil
@@ -9,9 +14,6 @@
 - 📱 WhatsApp: +44 8859-7116
 - 🌐 LinkedIn: [Elias Andrade - LinkedIn](https://www.linkedin.com/in/itilmgf)
 
-[Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
-
-[View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 
 
 # Jornada 2010-2023 🌟
