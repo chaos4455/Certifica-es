@@ -154,6 +154,9 @@ Aqui estão algumas capturas de tela demonstrando a utilização avançada do Za
 
 3. Monitoramento e Administração de Performance do PFsense:
    ![Performance do PFsense](https://raw.githubusercontent.com/chaos4455/Certifica-es/main/screencapture-192-168-45-254-2022-06-18-22_16_03.png)
+   
+4. Monitoramento de Tráfego de Rede no Ambiente de Servidores Windows:
+   ![Tráfego de Rede no Zabbix](https://raw.githubusercontent.com/chaos4455/Certifica-es/main/screencapture-monitor-exodata-br-zabbix-zabbix-php-2020-11-03-00_06_43.png)
 
 Essas imagens ilustram como utilizamos o Zabbix para monitorar servidores Windows e Linux, além de analisar o consumo de recursos como memória. Também mostramos como o PFsense é monitorado e administrado para garantir um desempenho ideal.
 
