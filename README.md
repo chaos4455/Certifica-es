@@ -9,9 +9,9 @@
 - 📱 WhatsApp: +44 8859-7116
 - 🌐 LinkedIn: [Elias Andrade - LinkedIn](https://www.linkedin.com/in/itilmgf)
 
-![🇪🇸](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-spain_1f1ea-1f1f8.png) [Ver mi currículum en español](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
+[Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
 
-![🇺🇸](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-states_1f1fa-1f1f8.png) [View my resume in English](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
+[View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 
 
 # Jornada 2010-2023 🌟
