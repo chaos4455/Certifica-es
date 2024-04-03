@@ -1,6 +1,6 @@
 # Elias Andrade - Portfólio de Certificações e Conquistas
 
-![Apresentação](https://raw.githubusercontent.com/chaos4455/py-dev/main/chrome_CiZLYinHdr.png) ## 🎯 Objetivo Profissional
+![Apresentação](https://raw.githubusercontent.com/chaos4455/py-dev/main/chrome_CiZLYinHdr.png) 
 
 ## 📌 Informações de Contato
 
