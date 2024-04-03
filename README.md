@@ -143,6 +143,20 @@ Como profissional de Suporte Técnico e Help Desk, possuo expertise em gestão d
 
 ### Ferramentas Avançadas
 - 📈 Utilização Avançada de Zabbix e PTRG
+
+Aqui estão algumas capturas de tela demonstrando a utilização avançada do Zabbix e a administração de desempenho do PFsense:
+
+1. Dashboard Completo do Zabbix (Ambiente de Servidores Windows e Linux):
+   ![Dashboard Zabbix](https://raw.githubusercontent.com/chaos4455/Certifica-es/main/screencapture-monitor-exodata-br-zabbix-zabbix-php-2022-06-18-22_17_24.png)
+
+2. Análise e Consumo de Memória no Zabbix:
+   ![Análise de Memória Zabbix](https://raw.githubusercontent.com/chaos4455/Certifica-es/main/screencapture-monitor-exodata-br-zabbix-zabbix-php-2022-06-22-13_15_01.png)
+
+3. Monitoramento e Administração de Performance do PFsense:
+   ![Performance do PFsense](https://raw.githubusercontent.com/chaos4455/Certifica-es/main/screencapture-192-168-45-254-2022-06-18-22_16_03.png)
+
+Essas imagens ilustram como utilizamos o Zabbix para monitorar servidores Windows e Linux, além de analisar o consumo de recursos como memória. Também mostramos como o PFsense é monitorado e administrado para garantir um desempenho ideal.
+
 - 🛠️ Gestão de Produtividade com Trello, GitLab, Dropbox
 
 
