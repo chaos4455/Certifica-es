@@ -6,10 +6,6 @@
 
 [View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 
-### Portfólio de DevOps 2024
-
-- 📁 [Devops-2024](https://github.com/chaos4455/Devops-2024): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
-
 
 ## 📌 Informações de Contato
 
@@ -155,6 +151,13 @@ Essas imagens ilustram como utilizamos o Zabbix para monitorar servidores Window
 
 - 🛠️ Gestão de Produtividade com Trello, GitLab, Dropbox
 
+### Portfólio de DevOps 2024
+
+- 📁 [Devops-2024](https://github.com/chaos4455/Devops-2024): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
+
+### Currículo de Especialista em Visão Computacional e Processamento de Linguagem Natural
+
+- 📄 [Currículo de Especialista](https://github.com/evolucaoit/portfolio): Este é o meu currículo como Especialista em Visão Computacional e Processamento de Linguagem Natural. Ele destaca minha experiência, habilidades e projetos relevantes nesses campos, demonstrando meu conhecimento e comprometimento com tecnologias avançadas de inteligência artificial. Sinta-se à vontade para explorar e entrar em contato para mais informações ou oportunidades de colaboração.
 
 ---
 
