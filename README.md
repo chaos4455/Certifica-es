@@ -18,10 +18,7 @@
 - 📱 WhatsApp: +44 8859-7116
 - 🌐 LinkedIn: [Elias Andrade - LinkedIn](https://www.linkedin.com/in/itilmgf)
 
-
-
 # Jornada 2010-2023 🌟
-
 
 ## **Origens e Preparação Inicial**
 
@@ -204,6 +201,9 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 
 - #### Em novembro de 2023, mediante não estar alocado no momento decidi revalidar meu conhecimento perante os últimos 5 anos que atuei fixo no cliente "confidencial", optei por revisitar áreas do conhecimento através de cursos e testes de validação do conhecimento das áreas em que atuo:
 
+### Certificação ITIL v3 Foundation desde 2012 - Tenho 12 anos de vivência continua implementando e operando ambientes de infra estrutura, help desk, service deskp e serviços baseados nas boas práticas da biblioteca ITIL V3 e V4 desde seu lançamento.
+
+- 📄 [Certificado ITIL v3 Foundation](https://github.com/chaos4455/Certifica-es/blob/main/CERTIFICA%C3%87%C3%83O%20ELIAS%20ITIL%20FOUNDATION%20PDF.pdf): Este é o meu certificado de ITIL v3 Foundation, obtido em 2012. A certificação ITIL (Information Technology Infrastructure Library) é reconhecida internacionalmente e atesta o conhecimento em boas práticas de gerenciamento de serviços de TI. Este certificado representa meu compromisso com a excelência em práticas de gestão de serviços de TI e meu constante aprimoramento profissional.
 
 - #### Principais trenamentos (atestados de conhecimento) : 
 
