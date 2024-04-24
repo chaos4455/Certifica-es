@@ -160,10 +160,11 @@ Essas imagens ilustram como utilizamos o Zabbix para monitorar servidores Window
 ## 🚀 **Projetos Recentes e Inovações**
 
 ### Projetos Pessoais no GitHub
+
 - 📁 [Py-Crypt-Files](https://github.com/chaos4455/Py-Crypt-Files): Interface GUI para criptografia de arquivos (Python, PyQt5, cryptography)
 - 📁 [Py-Crypt-Messages](https://github.com/chaos4455/py-crypt-messages): Interface GUI para criptografia e descriptografia de mensagens usando RSA (Python, PyQt5, cryptography)
 - 📁 [Disparador de E-mails em Massa](https://github.com/chaos4455/Python-2023/tree/main/DISPARAEMAILAPP): Aplicativo Python para envio eficiente de e-mails em larga escala
-
+- 📁 [Gerador de Senha em PyQt5](https://github.com/chaos4455/passgen): Este é um aplicativo simples de gerador de senha criado usando PyQt5 em Python. 🛠️ ℹ️ 
 ---
 
 Este é o meu perfil tecnológico, destacando áreas específicas de expertise. Se estiver buscando um profissional versátil e inovador, estou pronto para contribuir em projetos desafiadores! 🚀
