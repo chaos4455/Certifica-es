@@ -8,7 +8,7 @@
 
 ### Portfólio de DevOps 2024
 
-- 📁 [Devops-2024](https://github.com/chaos4455/Devops-2024): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. Explore e fique à vontade para entrar em contato caso tenha alguma dúvida ou queira discutir colaborações!
+- 📁 [Devops-2024](https://github.com/chaos4455/Devops-2024): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
 
 
 ## 📌 Informações de Contato
