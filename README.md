@@ -6,6 +6,10 @@
 
 [View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 
+### Portfólio de DevOps 2024 
+
+- 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
+
 
 ## 📌 Informações de Contato
 
@@ -150,31 +154,8 @@ Aqui estão algumas capturas de tela demonstrando a utilização avançada do Za
 Essas imagens ilustram como utilizamos o Zabbix para monitorar servidores Windows e Linux, além de analisar o consumo de recursos como memória. Também mostramos como o PFsense é monitorado e administrado para garantir um desempenho ideal.
 
 - 🛠️ Gestão de Produtividade com Trello, GitLab, Dropbox
-
-### Portfólio de DevOps 2024
-
-- 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
-
-### Currículo de Especialista em Visão Computacional e Processamento de Linguagem Natural
-
-- 📄 [Currículo de Especialista](https://github.com/evolucaoit/portfolio): Este é o meu currículo como Especialista em Visão Computacional e Processamento de Linguagem Natural. Ele destaca minha experiência, habilidades e projetos relevantes nesses campos, demonstrando meu conhecimento e comprometimento com tecnologias avançadas de inteligência artificial. Sinta-se à vontade para explorar e entrar em contato para mais informações ou oportunidades de colaboração.
-
+- 
 ---
-
-## 🚀 **Projetos Recentes e Inovações**
-
-### Projetos Pessoais no GitHub
-
-- 📁 [Py-Crypt-Files](https://github.com/chaos4455/Py-Crypt-Files): Interface GUI para criptografia de arquivos (Python, PyQt5, cryptography)
-- 📁 [Py-Crypt-Messages](https://github.com/chaos4455/py-crypt-messages): Interface GUI para criptografia e descriptografia de mensagens usando RSA (Python, PyQt5, cryptography)
-- 📁 [Disparador de E-mails em Massa](https://github.com/chaos4455/Python-2023/tree/main/DISPARAEMAILAPP): Aplicativo Python para envio eficiente de e-mails em larga escala
-- 📁 [Gerador de Senha em PyQt5](https://github.com/chaos4455/passgen): Este é um aplicativo simples de gerador de senha criado usando PyQt5 em Python. 🛠️ ℹ️ 
----
-
-Este é o meu perfil tecnológico, destacando áreas específicas de expertise. Se estiver buscando um profissional versátil e inovador, estou pronto para contribuir em projetos desafiadores! 🚀
-
-Este é um resumo da sua jornada tecnológica desde 2010 até 2022, destacando pontos cruciais. 
-
 
 Bem-vindo ao meu repositório de certificações e realizações profissionais. Me chamo Elias Andrade, sou Administrador de Redes e Especialista em Suporte Técnico, e este espaço reúne um pouco do meu caminho, conhecimento e conquistas ao longo da minha trajetória profissional.
 
@@ -227,8 +208,6 @@ Bem-vindo ao meu repositório de certificações e realizações profissionais. 
 - [Gerenciamento de Discos Ambiente Linux](https://github.com/chaos4455/Certifica-es/blob/main/B511287A.pdf) 💽 1 hora
 - [Gerenciamento Servidor Web Apache Linux](https://github.com/chaos4455/Certifica-es/blob/main/F2A9A279.pdf) 🌐 1 hora
 - [Python Lista Avançado](https://github.com/chaos4455/Certifica-es/blob/main/FC3F4E92.pdf) 🐍 1 hora
-
-
 
 
 Estou sempre em busca de atualizar meu conhecimento e aprimorar minhas habilidades para enfrentar os desafios do mundo tecnológico em constante evolução. Este repositório é um registro das minhas certificações e realizações, refletindo o compromisso constante com a excelência e o aprendizado contínuo.
@@ -407,9 +386,20 @@ Meu objetivo ao criar este repositório foi tornar fácil o acesso aos arquivos 
 
 #### [Visão computacional e NLP = processamento de linguagem natural, llama3, gpt, berd. Chatbots e IA - Portfolio](https://github.com/evolucaoit/portfolio) 🚀
 Um repositório contendo o portfólio de Elias Andrade, especialista em Visão Computacional e Processamento de Linguagem Natural. Saiba mais sobre meus conhecimentos nessa área.
-#### [Portfólio e jornada analista de redes e infraestrutura - Elias Andrade](https://github.com/chaos4455/Certifica-es) 📚
-Este repositório abriga o portfólio de realizações, projetos, experiência e conquistas, destacando minhas habilidades em projetos e experiência como administrador de redes e analista de infraestrutura. Saiba mais sobre meus conhecimentos nessa área.
 
+## 🚀 **Projetos Recentes e Inovações**
+
+### Projetos Pessoais no GitHub
+
+- 📁 [Py-Crypt-Files](https://github.com/chaos4455/Py-Crypt-Files): Interface GUI para criptografia de arquivos (Python, PyQt5, cryptography)
+- 📁 [Py-Crypt-Messages](https://github.com/chaos4455/py-crypt-messages): Interface GUI para criptografia e descriptografia de mensagens usando RSA (Python, PyQt5, cryptography)
+- 📁 [Disparador de E-mails em Massa](https://github.com/chaos4455/Python-2023/tree/main/DISPARAEMAILAPP): Aplicativo Python para envio eficiente de e-mails em larga escala
+- 📁 [Gerador de Senha em PyQt5](https://github.com/chaos4455/passgen): Este é um aplicativo simples de gerador de senha criado usando PyQt5 em Python. 🛠️ ℹ️ 
+---
+
+Este é o meu perfil tecnológico, destacando áreas específicas de expertise. Se estiver buscando um profissional versátil e inovador, estou pronto para contribuir em projetos desafiadores! 🚀
+
+Este é um resumo da sua jornada tecnológica desde 2010 até 2022, destacando pontos cruciais. 
 
 
 ## Let's Connect!
