@@ -12,7 +12,7 @@
 - 🏠 Localização: Maringá, Paraná, Brasil
 - 📧 E-mail: oeliasandrade@gmail.com
 - 📱 WhatsApp: +44 8859-7116
-- 🌐 LinkedIn: [Elias Andrade - LinkedIn](https://www.linkedin.com/in/itilmgf)
+- 🌐 LinkedIn: [Elias Andrade - LinkedIn Administrador de redes e infraestrutura](https://www.linkedin.com/in/itilmgf)
 
 # Jornada 2010-2023 🌟
 
@@ -416,11 +416,3 @@ Este repositório abriga o portfólio de realizações, projetos, experiência e
 - 📧 **Email:** [oeliasandrade@gmail.com](mailto:oeliasandrade@gmail.com)
 - 🔗 **LinkedIn Devops:** [linkedin.com/elias-andrade-devops](https://www.linkedin.com/in/elias-andrade-21574b2b4/)
 - 🐦 **Twitter:** [@Elias_devops](https://twitter.com/Elias_devops)
-
-## 🔗 **Redes Sociais e Repositórios de Projeto**
-
-### Conecte-se e Explore
-- [LinkedIn - Elias Andrade - Infraestrutura](https://www.linkedin.com/in/itilmgf)
-- [GitHub - Infraestrutura](https://github.com/devmga/Powershell-commandlets)
-- [GitHub - Programação Python, Estrutura de Dados e Banco de Dados](https://github.com/chaos4455/Estudos-2022)
-
