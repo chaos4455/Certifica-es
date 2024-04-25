@@ -399,9 +399,6 @@ Um repositório contendo o portfólio de Elias Andrade, especialista em Visão C
 
 Este é o meu perfil tecnológico, destacando áreas específicas de expertise. Se estiver buscando um profissional versátil e inovador, estou pronto para contribuir em projetos desafiadores! 🚀
 
-Este é um resumo da sua jornada tecnológica desde 2010 até 2022, destacando pontos cruciais. 
-
-
 ## Let's Connect!
 - 📧 **Email:** [oeliasandrade@gmail.com](mailto:oeliasandrade@gmail.com)
 - 🔗 **LinkedIn Devops:** [linkedin.com/elias-andrade-devops](https://www.linkedin.com/in/elias-andrade-21574b2b4/)
