@@ -153,7 +153,7 @@ Essas imagens ilustram como utilizamos o Zabbix para monitorar servidores Window
 
 ### Portfólio de DevOps 2024
 
-- 📁 [Devops-2024](https://github.com/chaos4455/Devops-2024): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
+- 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
 
 ### Currículo de Especialista em Visão Computacional e Processamento de Linguagem Natural
 
