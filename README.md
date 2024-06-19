@@ -6,7 +6,7 @@
 
 clique abaixo para visitar o repositório no GitHub onde oferece de forma diretae abrangente uma visão clara e completa das minhas habilidades profissionais:
 
-- [Lista de Skills e Competências de Elias Andrade](https://github.com/chaos4455/CV/tree/main)
+- [Lista de Skills e Competências técnicas](https://github.com/chaos4455/CV/tree/main)
 
 Este repositório é uma compilação detalhada das minhas capacidades em diversas áreas da tecnologia da informação, abrangendo desde administração de sistemas até segurança cibernética, automação e muito mais. É uma fonte valiosa para entender a profundidade e a diversidade das minhas habilidades técnicas e como podem ser aplicadas em favor do seu negócio ou empresa.
 
