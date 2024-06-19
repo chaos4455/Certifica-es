@@ -1,8 +1,9 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/doc-generator-ai)
-![GitHub stars](https://img.shields.io/github/stars/chaos4455/doc-generator-ai?style=social)
-![GitHub forks](https://img.shields.io/github/forks/chaos4455/doc-generator-ai?style=social)
-![GitHub issues](https://img.shields.io/github/issues/chaos4455/doc-generator-ai)
-![GitHub license](https://img.shields.io/github/license/chaos4455/doc-generator-ai)
+![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/Certifica-es)
+![GitHub stars](https://img.shields.io/github/stars/chaos4455/Certifica-es?style=social)
+![GitHub forks](https://img.shields.io/github/forks/chaos4455/Certifica-es?style=social)
+![GitHub issues](https://img.shields.io/github/issues/chaos4455/Certifica-es)
+![GitHub license](https://img.shields.io/github/license/chaos4455/Certifica-es)
+
 
 # Elias Andrade - Analista de infraestrutura - Devops 
 
