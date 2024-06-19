@@ -35,20 +35,24 @@ Visite o link acima para ir direto o repositório para descobrir como minhas hab
 ### AI-Infra-Automation-Toolbox 💡
 🌐 [Repositório em GitHub](https://github.com/seu-usuario/AI-Infra-Automation-Toolbox)
 
-Bem-vindo ao AI-Infra-Automation-Toolbox! Este repositório é um marco na minha jornada em DevOps e automação de infraestrutura. Aqui, demonstro minha habilidade em transformar complexidades de provisionamento de infraestrutura em soluções simples e escaláveis. 
+Recentemente, tenho dedicado meu tempo a desenvolver o AI-Infra-Automation-Toolbox, um repositório que exemplifica meu compromisso com a automação robusta e eficiente de infraestrutura.
 
-- **Automatização de Infraestrutura**: Utilizo tecnologias como Terraform para criar ambientes em nuvem, localmente e em containers.
-  
-- **Adaptabilidade**: Estas automações podem ser facilmente adaptadas para diferentes contextos empresariais, atendendo desde startups até grandes corporações em variados setores.
+- **Automatização de Infraestrutura**: Utilizo Terraform para criar ambientes em nuvem, localmente e em containers, adaptáveis para diversos contextos empresariais.
+
+- **Flexibilidade e Escalabilidade**: Estas automações são projetadas para escalabilidade e podem ser customizadas para atender desde pequenas startups até grandes corporações.
 
 ### Doc Generator AI 📚
 🌟 [Repositório em GitHub](https://github.com/seu-usuario/doc-generator-ai)
 
-O Doc Generator AI é uma inovação no campo de CI/CD e documentação técnica. Aqui, integro inteligência artificial para automatizar a criação de manuais técnicos detalhados, garantindo consistência e eficiência.
+Desenvolvi o Doc Generator AI como parte integrante de meu portfólio de DevOps, focado em automatizar a criação de documentação técnica detalhada usando inteligência artificial.
 
-- **Automação de Documentação**: Utilizo GitHub Actions para automação contínua desde a geração até a atualização de manuais técnicos.
-  
-- **Versatilidade**: Esta solução pode ser personalizada para atender diferentes necessidades de documentação técnica em diversas indústrias e áreas de negócio.
+- **Automação de Documentação**: Utilizo GitHub Actions para um ciclo completo de CI/CD, desde a geração até a atualização contínua de manuais técnicos.
+
+- **Aplicabilidade em Diversos Setores**: Esta solução é adaptável para atender as demandas específicas de documentação técnica em diferentes indústrias e áreas de negócio.
+
+---
+
+Esses repositórios não apenas refletem minhas habilidades técnicas avançadas, mas também demonstram minha capacidade de criar soluções práticas e inovadoras que agregam valor significativo aos processos de automação e DevOps.
 
 ---
 
