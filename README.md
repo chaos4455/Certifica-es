@@ -22,6 +22,29 @@ Visite o link acima para ir direto o repositório para descobrir como minhas hab
 
 - 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
 
+## Projetos de Destaque em Automação e DevOps 🚀
+
+### AI-Infra-Automation-Toolbox 💡
+🌐 [Repositório em GitHub](https://github.com/seu-usuario/AI-Infra-Automation-Toolbox)
+
+Bem-vindo ao AI-Infra-Automation-Toolbox! Este repositório é um marco na minha jornada em DevOps e automação de infraestrutura. Aqui, demonstro minha habilidade em transformar complexidades de provisionamento de infraestrutura em soluções simples e escaláveis. 
+
+- **Automatização de Infraestrutura**: Utilizo tecnologias como Terraform para criar ambientes em nuvem, localmente e em containers.
+  
+- **Adaptabilidade**: Estas automações podem ser facilmente adaptadas para diferentes contextos empresariais, atendendo desde startups até grandes corporações em variados setores.
+
+### Doc Generator AI 📚
+🌟 [Repositório em GitHub](https://github.com/seu-usuario/doc-generator-ai)
+
+O Doc Generator AI é uma inovação no campo de CI/CD e documentação técnica. Aqui, integro inteligência artificial para automatizar a criação de manuais técnicos detalhados, garantindo consistência e eficiência.
+
+- **Automação de Documentação**: Utilizo GitHub Actions para automação contínua desde a geração até a atualização de manuais técnicos.
+  
+- **Versatilidade**: Esta solução pode ser personalizada para atender diferentes necessidades de documentação técnica em diversas indústrias e áreas de negócio.
+
+---
+
+Estes repositórios representam meu compromisso com a inovação e eficiência através de automação inteligente e práticas de DevOps avançadas. Eles refletem não apenas minhas habilidades técnicas, mas também minha capacidade de desenvolver soluções que agregam valor real aos negócios, adaptando-se às demandas específicas de cada projeto.
 
 ## 📌 Informações de Contato
 
