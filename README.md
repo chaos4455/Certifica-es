@@ -31,7 +31,7 @@ Visite o link acima para ir direto o repositório para descobrir como minhas hab
 
 - 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
 
-## Projetos de Destaque em Automação e DevOps 🚀
+## Projetos de Destaque em Automação e DevOps 06-2024🚀
 
 ### AI-Infra-Automation-Toolbox 💡
 🌐 [Repo do projeto](https://github.com/seu-usuario/AI-Infra-Automation-Toolbox)
