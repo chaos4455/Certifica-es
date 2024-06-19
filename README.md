@@ -34,7 +34,7 @@ Visite o link acima para ir direto o repositório para descobrir como minhas hab
 ## Projetos de Destaque em Automação e DevOps 06-2024🚀
 
 ### AI-Infra-Automation-Toolbox 💡
-🌐 [Repo do projeto](https://github.com/seu-usuario/AI-Infra-Automation-Toolbox)
+🌐 [Repo do projeto](https://github.com/chaos4455/AI-Infra-Automation-Toolbox)
 
 Recentemente, tenho trabalhado intensamente no desenvolvimento do AI-Infra-Automation-Toolbox, um repositório que exemplifica meu compromisso com a automação ágil e eficiente de infraestrutura.
 
@@ -43,7 +43,7 @@ Recentemente, tenho trabalhado intensamente no desenvolvimento do AI-Infra-Autom
 - **Flexibilidade e Escalabilidade**: Este projeto permite a criação rápida de scripts prontos ou quase prontos para deploy em diversas plataformas de nuvem, como AWS CloudFormation e serviços on-premise, adaptando-se às necessidades específicas de cada ambiente.
 
 ### Doc Generator AI 📚
-🌟 [Repo do projeto](https://github.com/seu-usuario/doc-generator-ai)
+🌟 [Repo do projeto](https://github.com/chaos4455/doc-generator-ai)
 
 Desenvolvi o Doc Generator AI como parte integrante de meu portfólio de DevOps, focado em automatizar a criação de documentação técnica detalhada usando inteligência artificial.
 
