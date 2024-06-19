@@ -12,7 +12,7 @@ Este repositório é uma compilação detalhada das minhas capacidades em divers
 
 Visite o link acima para ir direto o repositório para descobrir como minhas habilidades podem contribuir positivamente para os desafios técnicos da sua empresa!
 
-![Apresentação]([https://raw.githubusercontent.com/chaos4455/py-dev/main/chrome_CiZLYinHdr.png](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/chrome_kpuiYlsq9Q.png)) 
+![Apresentação][([https://raw.githubusercontent.com/chaos4455/py-dev/main/chrome_CiZLYinHdr.png](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/chrome_kpuiYlsq9Q.png)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/chrome_kpuiYlsq9Q.png)
 
 [Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
 
