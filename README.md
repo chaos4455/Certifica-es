@@ -4,6 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/chaos4455/Certifica-es)
 ![GitHub license](https://img.shields.io/github/license/chaos4455/Certifica-es)
 
+<img src="https://raw.githubusercontent.com/elias-andrade-devops/Elias-Andrade-Devops-2024/main/chrome_kpuiYlsq9Q.png" alt="Imagem responsiva de Elias Andrade" style="max-width: 100%; height: auto;" />
 
 # Elias Andrade - Analista de infraestrutura - Devops 
 
@@ -21,7 +22,6 @@ Este repositório é uma compilação detalhada das minhas capacidades em divers
 
 Visite o link acima para ir direto o repositório para descobrir como minhas habilidades podem contribuir positivamente para os desafios técnicos da sua empresa!
 
-<img src="https://raw.githubusercontent.com/elias-andrade-devops/Elias-Andrade-Devops-2024/main/chrome_kpuiYlsq9Q.png" alt="Imagem responsiva de Elias Andrade" style="max-width: 100%; height: auto;" />
 
 [Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
 
