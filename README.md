@@ -25,7 +25,6 @@
 ### Virtualização e Container
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Hyper-V](https://img.shields.io/badge/-Hyper%2DV-009639?style=flat&logo=microsoft&logoColor=white) 
 ![KVM](https://img.shields.io/badge/-KVM-003366?style=flat&logo=kvm&logoColor=white) 
 ![AWS](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat&logo=amazonaws&logoColor=white) 
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) 
