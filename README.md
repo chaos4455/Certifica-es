@@ -8,9 +8,54 @@
 
 <img src="https://raw.githubusercontent.com/elias-andrade-devops/Elias-Andrade-Devops-2024/main/chrome_kpuiYlsq9Q.png" alt="Imagem responsiva de Elias Andrade" style="max-width: 100%; height: auto;" />
 
+# Badges de Conhecimento e Certificações
+
+Aqui estão alguns dos badges que representam meu conhecimento e experiência acumulados ao longo de minha carreira em tecnologia, desde suporte e infraestrutura até DevOps e arquitetura de soluções.
+
+### Suporte e Infraestrutura
+
+![Suporte Técnico](https://img.shields.io/badge/Support_Tech-2024-green)
+![Administração de Sistemas Linux](https://img.shields.io/badge/Linux_Systems_Admin-2024-green)
+![Administração de Sistemas Windows](https://img.shields.io/badge/Windows_Systems_Admin-2024-green)
+![Virtualização](https://img.shields.io/badge/Virtualization-2024-green)
+![Redes e Segurança](https://img.shields.io/badge/Networking_Security-2024-green)
+
+### DevOps e Automação
+
+![DevOps](https://img.shields.io/badge/DevOps-2024-blue)
+![Docker](https://img.shields.io/badge/Docker-2024-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2024-blue)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2024-blue)
+![Ansible](https://img.shields.io/badge/Ansible-2024-blue)
+![Puppet](https://img.shields.io/badge/Puppet-2024-blue)
+![Chef](https://img.shields.io/badge/Chef-2024-blue)
+
+### Arquitetura de Soluções e Desenvolvimento
+
+![Arquitetura de Soluções](https://img.shields.io/badge/Solution_Architecture-2024-orange)
+![Python](https://img.shields.io/badge/Python-2024-orange)
+![Flask](https://img.shields.io/badge/Flask-2024-orange)
+![Django](https://img.shields.io/badge/Django-2024-orange)
+![.NET Core](https://img.shields.io/badge/.NET_Core-2024-orange)
+![APIs](https://img.shields.io/badge/APIs-2024-orange)
+
+### Inteligência Artificial e Machine Learning
+
+![IA Generativa](https://img.shields.io/badge/Generative_AI-2024-purple)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2024-purple)
+![Modelos de Linguagem](https://img.shields.io/badge/Language_Models-2024-purple)
+![Visão Computacional](https://img.shields.io/badge/Computer_Vision-2024-purple)
+
+### Outras Tecnologias e Ferramentas
+
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-2024-gray)
+![Big Data](https://img.shields.io/badge/Big_Data-2024-gray)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2024-gray)
+![Automação de Processos](https://img.shields.io/badge/Process_Automation-2024-gray)
+![Segurança da Informação](https://img.shields.io/badge/Information_Security-2024-gray)
 
 
-# Portfólio de Certificações e Conquistas
+# Portfólio de Conquistas
 
 👨‍💻 Aqui estão minhas competências detalhadas e habilidades técnicas atualizadas, disponíveis para sua análise detalhada:
 
