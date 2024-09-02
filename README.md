@@ -8,27 +8,53 @@
 
 <img src="https://raw.githubusercontent.com/elias-andrade-devops/Elias-Andrade-Devops-2024/main/chrome_kpuiYlsq9Q.png" alt="Imagem responsiva de Elias Andrade" style="max-width: 100%; height: auto;" />
 
-## Badges de Tecnologia e Conhecimento
+# Badges de Conhecimento e Certificações
 
-- ![Python](https://img.shields.io/badge/Python-3.9-blue) ![DevOps](https://img.shields.io/badge/DevOps-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20-%20%20-%23f6c11b) ![AI](https://img.shields.io/badge/AI-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20-%20%20-%23963950) ![ML](https://img.shields.io/badge/ML-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20-%20%20-%235e6f8d)
+Aqui estão badges que representam meu conhecimento e experiência em diversas tecnologias e práticas ao longo dos anos. Cada badge é personalizado com ícones e cores específicas para melhor visualização.
 
-- ![Linux](https://img.shields.io/badge/Linux-5.0-#00c800) ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-orange) ![Bash](https://img.shields.io/badge/Bash-5.0-#4e8b57) ![PowerShell](https://img.shields.io/badge/PowerShell-7.2-#2b8bbd)
+### Sistemas Operacionais
 
-- ![Windows](https://img.shields.io/badge/Windows-10-#0078d4) ![WindowsServer](https://img.shields.io/badge/Windows%20Server-2019-#0078d4) ![ActiveDirectory](https://img.shields.io/badge/Active%20Directory-#0078d4) ![TerminalServer](https://img.shields.io/badge/Terminal%20Server-#0078d4)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+![Windows_Server](https://img.shields.io/badge/Windows_Server-0078D4?logo=windows&logoColor=white&style=flat-square)
+![Terminal_Server](https://img.shields.io/badge/Terminal_Server-0078D4?logo=windows&logoColor=white&style=flat-square)
 
-- ![Docker](https://img.shields.io/badge/Docker-20.10-#2496ed) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.22-#326ce5) ![ArgoCD](https://img.shields.io/badge/ArgoCD-2.3-#629c41) ![CI/CD](https://img.shields.io/badge/CI%2FCD-#0b9e9e)
+### Ferramentas e Linguagens
 
-- ![Git](https://img.shields.io/badge/Git-2.33-#f1502f) ![GitHub](https://img.shields.io/badge/GitHub-#181717) ![Ansible](https://img.shields.io/badge/Ansible-2.9-#ff8c00) ![Puppet](https://img.shields.io/badge/Puppet-7.0-#ffcc00)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-2A2D72?logo=powershell&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=white&style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-2A2D72?logo=powershell&logoColor=white&style=flat-square)
 
-- ![VMware](https://img.shields.io/badge/VMware-16.2-#607078) ![KVM](https://img.shields.io/badge/KVM-#f2f2f2) ![OpenStack](https://img.shields.io/badge/OpenStack-#e35a47) ![Terraform](https://img.shields.io/badge/Terraform-1.0-#623e6e)
+### Automação e Gerenciamento
 
-- ![SQLServer](https://img.shields.io/badge/SQL%20Server-2019-#cc2927) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.0-#336791) ![MySQL](https://img.shields.io/badge/MySQL-8.0-#4479a1) ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-#47a248)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square)
+![Puppet](https://img.shields.io/badge/Puppet-FFD100?logo=puppet&logoColor=black&style=flat-square)
+![Chef](https://img.shields.io/badge/Chef-231F20?logo=chef&logoColor=white&style=flat-square)
 
-- ![Network](https://img.shields.io/badge/Network-Admin-#ff5722) ![Security](https://img.shields.io/badge/Security-#d9534f) ![Firewall](https://img.shields.io/badge/Firewall-#d9534f) ![VPN](https://img.shields.io/badge/VPN-#5bc0de)
+### Desenvolvimento e Arquitetura
 
-- ![Scripting](https://img.shields.io/badge/Scripting-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20-%20%20-%20-%23ffb800) ![Automation](https://img.shields.io/badge/Automation-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20-%20%20-%234b8d3f) ![API](https://img.shields.io/badge/API-Integration-#f1c40f)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/Django-092D53?logo=django&logoColor=white&style=flat-square)
+![.NET_Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=.net&logoColor=white&style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-1F8AC0?logo=api&logoColor=white&style=flat-square)
 
-- ![Infrastructure](https://img.shields.io/badge/Infrastructure-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20-%20%20-%238e44ad) ![SolutionArchitecture](https://img.shields.io/badge/Solution%20Architecture-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20-%20%20-%231f77b4)
+### Cloud e Data
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![Cloud_Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
+![Big_Data](https://img.shields.io/badge/Big_Data-FF9900?logo=apache&logoColor=white&style=flat-square)
+![Data_Analysis](https://img.shields.io/badge/Data_Analysis-4F5D95?logo=google-analytics&logoColor=white&style=flat-square)
+
+### Segurança e IA
+
+![Information_Security](https://img.shields.io/badge/Information_Security-FF4F4F?logo=security&logoColor=white&style=flat-square)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-F7E03C?logo=machine-learning&logoColor=black&style=flat-square)
+![Generative_AI](https://img.shields.io/badge/Generative_AI-FFC107?logo=ai&logoColor=black&style=flat-square)
+![Computer_Vision](https://img.shields.io/badge/Computer_Vision-FF5722?logo=vision&logoColor=white&style=flat-square)
+
 
 
 # Portfólio de Conquistas
