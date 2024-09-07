@@ -146,27 +146,6 @@ Visite o link acima para ir direto o repositório para descobrir como minhas hab
 
 - 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
 
-## Projetos de Destaque em Automação e DevOps 06-2024🚀
-
-### AI-Infra-Automation-Toolbox 💡
-🌐 [Repo do projeto](https://github.com/chaos4455/AI-Infra-Automation-Toolbox)
-
-Recentemente, tenho trabalhado intensamente no desenvolvimento do AI-Infra-Automation-Toolbox, um repositório que exemplifica meu compromisso com a automação ágil e eficiente de infraestrutura.
-
-- **Automatização de Provisionamento**: Utilizo Python para integrar inteligência artificial na geração automática de scripts de provisionamento em Terraform, acelerando significativamente o processo de deploy de ambientes e serviços.
-
-- **Flexibilidade e Escalabilidade**: Este projeto permite a criação rápida de scripts prontos ou quase prontos para deploy em diversas plataformas de nuvem, como AWS CloudFormation e serviços on-premise, adaptando-se às necessidades específicas de cada ambiente.
-
-### Doc Generator AI 📚
-🌟 [Repo do projeto](https://github.com/chaos4455/doc-generator-ai)
-
-Desenvolvi o Doc Generator AI como parte integrante de meu portfólio de DevOps, focado em automatizar a criação de documentação técnica detalhada usando inteligência artificial.
-
-- **Automação de Documentação**: Utilizo GitHub Actions para um ciclo completo de CI/CD, desde a geração até a atualização contínua de manuais técnicos.
-
-- **Aplicabilidade em Diversos Setores**: Esta solução é adaptável para atender as demandas específicas de documentação técnica em diferentes indústrias e áreas de negócio.
-
-
 # Jornada 2010-2023 🌟
 
 ## **Origens e Preparação Inicial**
