@@ -36,8 +36,6 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
     - **2022:** Desenvolvimento e implantação de soluções para melhoria da performance e resiliência da infraestrutura.
     - **2023:** Revisão e atualização de estratégias de segurança e automação, consolidando as melhores práticas adquiridas ao longo dos anos.
 
-  - **Link para o Repositório:** [Tech_milestones](https://github.com/chaos4455/Tech_milestones)
-
 ## 📚 Portfólio Completo de Projetos e Competências
 
 ### **1. Portfólio de DevOps 2024**
