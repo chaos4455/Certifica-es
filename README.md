@@ -18,6 +18,26 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
 
 [View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 
+## 📈 Milestones e Realizações em Infraestrutura no meu emprego de longo prazo mais recente (2019-2023)
+
+- [![Tech_Milestones-2019-2023](https://img.shields.io/badge/Tech%20Milestones%202019--2023-%E2%9C%94-brightgreen)](https://github.com/chaos4455/Tech_milestones)
+  - **Descrição:** Este repositório documenta os marcos e realizações significativas da minha carreira como Administrador de Redes, abrangendo um período de 5 anos, de 2019 até 2023. Nele, você encontrará detalhes sobre projetos de infraestrutura, melhorias implementadas, desafios enfrentados e soluções adotadas.
+  - **Conteúdo Incluído:**
+    - **Automação de Infraestrutura:** Scripts e ferramentas desenvolvidos para automação de tarefas rotineiras e complexas.
+    - **Gerenciamento de Redes:** Estratégias e implementações para otimização e manutenção de redes corporativas.
+    - **Segurança da Informação:** Medidas e práticas adotadas para garantir a segurança e integridade dos sistemas e dados.
+    - **Projetos Notáveis:** Exemplos de projetos bem-sucedidos e suas respectivas contribuições para a melhoria da infraestrutura da empresa.
+    - **Desafios e Soluções:** Documentação sobre problemas enfrentados e as soluções eficazes que foram aplicadas.
+
+  - **Exemplos de Realizações:**
+    - **2019:** Início da implementação de novas políticas de segurança e automação de processos.
+    - **2020:** Atualização e otimização de sistemas de rede para suportar o crescimento da empresa.
+    - **2021:** Lançamento de projetos de integração de novas tecnologias e ferramentas de gerenciamento.
+    - **2022:** Desenvolvimento e implantação de soluções para melhoria da performance e resiliência da infraestrutura.
+    - **2023:** Revisão e atualização de estratégias de segurança e automação, consolidando as melhores práticas adquiridas ao longo dos anos.
+
+  - **Link para o Repositório:** [Tech_milestones](https://github.com/chaos4455/Tech_milestones)
+
 ## 📚 Portfólio Completo de Projetos e Competências
 
 ### **1. Portfólio de DevOps 2024**
