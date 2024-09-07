@@ -21,9 +21,35 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
 
 [View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 
-### Portfólio de DevOps 2024 
+## 📚 Portfólio Completo de Projetos e Competências
 
-- 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
+### **1. Portfólio de DevOps 2024**
+- [![DevOps-2024 - Janeiro a agosto 2024](https://img.shields.io/badge/DevOps%20Portfolio%202024-%E2%9C%94-brightgreen)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/)
+  - **Descrição:** Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais.
+
+### **2. Portfólio de Competências em ITSM e Infraestrutura**
+- [![DevOps-2024 - 2024 até 2028](https://img.shields.io/badge/DevOps%20Competencies%20ITSM%20%26%20Infra-%E2%9C%94-blue)](https://github.com/chaos4455/Devops-2024)
+  - **Descrição:** Um portfólio abrangente que destaca minhas competências e habilidades em DevOps, incluindo práticas de automação, gerenciamento de infraestrutura e integrações complexas.
+- [![CV](https://img.shields.io/badge/CV%20-%E2%9C%94-orange)](https://github.com/chaos4455/CV)
+  - **Descrição:** Lista detalhada das minhas competências e experiências em ITSM e infraestrutura, com um resumo das minhas habilidades e certificações.
+
+### **3. Projetos Técnicos**
+- [![Projetos](https://img.shields.io/badge/Technical%20Projects-%E2%9C%94-purple)](https://github.com/chaos4455/Projetos)
+  - **Descrição:** Repositório que documenta os projetos técnicos em que trabalhei. Inclui uma gama diversificada de projetos, desde soluções de infraestrutura até automação e implementações técnicas complexas.
+
+### **4. Projetos de Desenvolvimento**
+- [![Projetos-DEV](https://img.shields.io/badge/Development%20Projects-%E2%9C%94-red)](https://github.com/chaos4455/Projetos-DEV)
+  - **Descrição:** Repositório com projetos diversos de desenvolvimento, incluindo aplicações Python, microserviços e muito mais. Este repositório demonstra minhas habilidades e experiências em desenvolvimento de software.
+
+### **5. Conhecimentos em Inteligência Artificial e Machine Learning**
+- [![AI-ML-LLM](https://img.shields.io/badge/AI%20%26%20ML%20Knowledge-%E2%9C%94-blueviolet)](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)
+  - **Descrição:** Repositório dedicado ao estudo e aplicação de Inteligência Artificial, Machine Learning, LLM (Modelos de Linguagem de Grande Escala) e outras tecnologias emergentes. Inclui projetos, tutoriais e estudos de caso sobre IA e ML.
+
+---
+
+Esses repositórios fornecem uma visão completa do meu trabalho e das minhas habilidades em diversas áreas da tecnologia, desde DevOps e infraestrutura até desenvolvimento e inteligência artificial. Sinta-se à vontade para explorar e revisar cada um deles para obter uma visão detalhada das minhas competências e experiências.
+
+Se precisar de mais informações ou quiser discutir algum projeto específico, entre em contato!
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/Certifica-es)
 ![GitHub stars](https://img.shields.io/github/stars/chaos4455/Certifica-es?style=social)
