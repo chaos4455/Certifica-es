@@ -10,6 +10,8 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
 
 ## 📌 Informações de Contato
 
+<img src="https://raw.githubusercontent.com/elias-andrade-devops/Elias-Andrade-Devops-2024/main/chrome_kpuiYlsq9Q.png" alt="Imagem responsiva de Elias Andrade" style="max-width: 100%; height: auto;" />
+
 - 🏠 Localização: Maringá, Paraná, Brasil
 - 📧 E-mail: oeliasandrade@gmail.com
 - 📱 WhatsApp: +44 8859-7116
@@ -30,13 +32,22 @@ Este currículo abrange minhas habilidades e experiência como Administrador de 
 Este currículo destaca minha especialização como Analista DevOps com foco em GitOps, CI/CD, Docker, GitHub, Kubernetes, ArgoCD e plataformas de engenharia.
 
 
+
+[Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
+
+[View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
+
+### Portfólio de DevOps 2024 
+
+- 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/Certifica-es)
 ![GitHub stars](https://img.shields.io/github/stars/chaos4455/Certifica-es?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/chaos4455/Certifica-es?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/chaos4455/Certifica-es)
 ![GitHub license](https://img.shields.io/github/license/chaos4455/Certifica-es)
 
-<img src="https://raw.githubusercontent.com/elias-andrade-devops/Elias-Andrade-Devops-2024/main/chrome_kpuiYlsq9Q.png" alt="Imagem responsiva de Elias Andrade" style="max-width: 100%; height: auto;" />
 
 <!-- Bloco de Badges em Markdown -->
 
@@ -121,30 +132,6 @@ Este currículo destaca minha especialização como Analista DevOps com foco em 
 ![Generative_AI](https://img.shields.io/badge/Generative_AI-FFC107?logo=ai&logoColor=black&style=flat-square)
 ![Computer_Vision](https://img.shields.io/badge/Computer_Vision-FF5722?logo=vision&logoColor=white&style=flat-square)
 
-
-
-# Portfólio de Conquistas
-
-👨‍💻 Aqui estão minhas competências detalhadas e habilidades técnicas atualizadas, disponíveis para sua análise detalhada:
-
-<!-- Elias Andrade - Lista de Skills e Competências -->
-
-clique abaixo para visitar o repositório no GitHub onde oferece de forma diretae abrangente uma visão clara e completa das minhas habilidades profissionais:
-
-- [Lista de Skills e Competências técnicas](https://github.com/chaos4455/CV/tree/main)
-
-Este repositório é uma compilação detalhada das minhas capacidades em diversas áreas da tecnologia da informação, abrangendo desde administração de sistemas até segurança cibernética, automação e muito mais. É uma fonte valiosa para entender a profundidade e a diversidade das minhas habilidades técnicas e como podem ser aplicadas em favor do seu negócio ou empresa.
-
-Visite o link acima para ir direto o repositório para descobrir como minhas habilidades podem contribuir positivamente para os desafios técnicos da sua empresa!
-
-
-[Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
-
-[View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
-
-### Portfólio de DevOps 2024 
-
-- 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
 
 # Jornada 2010-2023 🌟
 
