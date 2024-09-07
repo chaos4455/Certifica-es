@@ -1,8 +1,5 @@
 # Elias Andrade - Analista de infraestrutura - Devops 
 
-#### Sobre o Repositório
-O repositório de Conhecimento é uma coleção de recursos úteis compartilhados com a comunidade por Elias Andrade. Ele inclui uma variedade de tópicos, desde comandos de linha de comando até tutoriais detalhados sobre diversas tecnologias.
-
 #### Objetivo
 Meu objetivo ao criar este repositório foi tornar fácil o acesso aos arquivos que considero úteis para mim e para outras pessoas. Aqui, você encontrará uma grande variedade de informações destinadas a facilitar o trabalho diário e promover o compartilhamento de conhecimento.
 
