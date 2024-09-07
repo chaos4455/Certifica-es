@@ -1,5 +1,35 @@
 # Elias Andrade - Analista de infraestrutura - Devops 
 
+#### Sobre o Repositório
+O repositório de Conhecimento é uma coleção de recursos úteis compartilhados com a comunidade por Elias Andrade. Ele inclui uma variedade de tópicos, desde comandos de linha de comando até tutoriais detalhados sobre diversas tecnologias.
+
+#### Objetivo
+Meu objetivo ao criar este repositório foi tornar fácil o acesso aos arquivos que considero úteis para mim e para outras pessoas. Aqui, você encontrará uma grande variedade de informações destinadas a facilitar o trabalho diário e promover o compartilhamento de conhecimento.
+
+Estes repositórios representam meu compromisso com a inovação e eficiência através de automação inteligente e práticas de DevOps avançadas. Eles refletem não apenas minhas habilidades técnicas, mas também minha capacidade de desenvolver soluções que agregam valor real aos negócios, adaptando-se às demandas específicas de cada projeto.
+
+## 📌 Informações de Contato
+
+- 🏠 Localização: Maringá, Paraná, Brasil
+- 📧 E-mail: oeliasandrade@gmail.com
+- 📱 WhatsApp: +44 8859-7116
+- 🌐 LinkedIn: [Elias Andrade - LinkedIn Administrador de redes e infraestrutura](https://www.linkedin.com/in/itilmgf)
+
+# Currículos de Elias Andrade
+
+## 📄 Administrador de Redes e Infraestrutura / Analista DevOps
+
+[![Currículo Administrador de Redes e Infraestrutura / Analista DevOps](https://img.shields.io/badge/Currículo-Administrador_de_Redes_e_Infraestrutura_/_Analista_DevOps-blue)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/certificados/Curr%C3%ADculo%20Elias%20Andrade%20-%20Administrador%20de%20Redes%20e%20Infraestrutura%20%20Analista%20DevOps%20-%20Remoto.pdf)
+
+Este currículo abrange minhas habilidades e experiência como Administrador de Redes e Infraestrutura, destacando também meu conhecimento e experiência como Analista DevOps.
+
+## 🚀 Analista DevOps GitOps CI/CD Docker GitHub Kubernetes ArgoCD Platform Engineer
+
+[![Currículo Analista DevOps GitOps CI/CD Docker GitHub Kubernetes ArgoCD Platform Engineer](https://img.shields.io/badge/Currículo-Analista_DevOps_GitOps_CI_CD_Docker_GitHub_Kubernetes_ArgoCD_Platform_Engineer-green)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/certificados/Elias%20Andrade%20-%20Administrador%20de%20redes%20e%20infraestrutura%20%20Analista%20Devops%20-%20Gitops%20%20Platform%20Engineer%20-%20Remoto.pdf)
+
+Este currículo destaca minha especialização como Analista DevOps com foco em GitOps, CI/CD, Docker, GitHub, Kubernetes, ArgoCD e plataformas de engenharia.
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/Certifica-es)
 ![GitHub stars](https://img.shields.io/github/stars/chaos4455/Certifica-es?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/chaos4455/Certifica-es?style=social)
@@ -135,39 +165,6 @@ Desenvolvi o Doc Generator AI como parte integrante de meu portfólio de DevOps,
 - **Automação de Documentação**: Utilizo GitHub Actions para um ciclo completo de CI/CD, desde a geração até a atualização contínua de manuais técnicos.
 
 - **Aplicabilidade em Diversos Setores**: Esta solução é adaptável para atender as demandas específicas de documentação técnica em diferentes indústrias e áreas de negócio.
-
----
-
-Esses repositórios demonstram minha habilidade em desenvolver soluções avançadas que não apenas automatizam processos complexos de infraestrutura e documentação, mas também melhoram significativamente a eficiência operacional e a consistência em ambientes de TI.
-
----
-
-Esses repositórios não apenas refletem minhas habilidades técnicas avançadas, mas também demonstram minha capacidade de criar soluções práticas e inovadoras que agregam valor significativo aos processos de automação e DevOps.
-
----
-
-Estes repositórios representam meu compromisso com a inovação e eficiência através de automação inteligente e práticas de DevOps avançadas. Eles refletem não apenas minhas habilidades técnicas, mas também minha capacidade de desenvolver soluções que agregam valor real aos negócios, adaptando-se às demandas específicas de cada projeto.
-
-## 📌 Informações de Contato
-
-- 🏠 Localização: Maringá, Paraná, Brasil
-- 📧 E-mail: oeliasandrade@gmail.com
-- 📱 WhatsApp: +44 8859-7116
-- 🌐 LinkedIn: [Elias Andrade - LinkedIn Administrador de redes e infraestrutura](https://www.linkedin.com/in/itilmgf)
-
-# Currículos de Elias Andrade
-
-## 📄 Administrador de Redes e Infraestrutura / Analista DevOps
-
-[![Currículo Administrador de Redes e Infraestrutura / Analista DevOps](https://img.shields.io/badge/Currículo-Administrador_de_Redes_e_Infraestrutura_/_Analista_DevOps-blue)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/certificados/Curr%C3%ADculo%20Elias%20Andrade%20-%20Administrador%20de%20Redes%20e%20Infraestrutura%20%20Analista%20DevOps%20-%20Remoto.pdf)
-
-Este currículo abrange minhas habilidades e experiência como Administrador de Redes e Infraestrutura, destacando também meu conhecimento e experiência como Analista DevOps.
-
-## 🚀 Analista DevOps GitOps CI/CD Docker GitHub Kubernetes ArgoCD Platform Engineer
-
-[![Currículo Analista DevOps GitOps CI/CD Docker GitHub Kubernetes ArgoCD Platform Engineer](https://img.shields.io/badge/Currículo-Analista_DevOps_GitOps_CI_CD_Docker_GitHub_Kubernetes_ArgoCD_Platform_Engineer-green)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/certificados/Elias%20Andrade%20-%20Administrador%20de%20redes%20e%20infraestrutura%20%20Analista%20Devops%20-%20Gitops%20%20Platform%20Engineer%20-%20Remoto.pdf)
-
-Este currículo destaca minha especialização como Analista DevOps com foco em GitOps, CI/CD, Docker, GitHub, Kubernetes, ArgoCD e plataformas de engenharia.
 
 
 # Jornada 2010-2023 🌟
@@ -521,37 +518,6 @@ O [DockerCommandlets](https://github.com/chaos4455/DockerCommandlets) é um repo
 
 Em 2019, criei o repositório [Conhecimento](https://github.com/chaos4455/Conhecimento) com o objetivo de compartilhar um misto de cultura DevOps e outras informações úteis acumuladas ao longo dos anos. Este repositório contém uma variedade de comandos, tutoriais, arquivos de informação e comandlets que uso no meu dia a dia e que foram acumulados ao longo do tempo.
 
-#### Sobre o Repositório
-O repositório de Conhecimento é uma coleção de recursos úteis compartilhados com a comunidade por Elias Andrade. Ele inclui uma variedade de tópicos, desde comandos de linha de comando até tutoriais detalhados sobre diversas tecnologias.
-
-#### Objetivo
-Meu objetivo ao criar este repositório foi tornar fácil o acesso aos arquivos que considero úteis para mim e para outras pessoas. Aqui, você encontrará uma grande variedade de informações destinadas a facilitar o trabalho diário e promover o compartilhamento de conhecimento.
-
-#### Conteúdo
-- Comandos úteis para diversas tarefas de administração de sistemas.
-- Tutoriais detalhados sobre configuração e uso de diferentes tecnologias.
-- Arquivos de informação para referência rápida.
-- Comandlets e scripts para automação de tarefas comuns.
 
 
-### Outras áreas que atuo, estudo, tenho interesse ou projetos.
 
-#### [Visão computacional e NLP = processamento de linguagem natural, llama3, gpt, berd. Chatbots e IA - Portfolio](https://github.com/evolucaoit/portfolio) 🚀
-Um repositório contendo o portfólio de Elias Andrade, especialista em Visão Computacional e Processamento de Linguagem Natural. Saiba mais sobre meus conhecimentos nessa área.
-
-## 🚀 **Projetos Recentes e Inovações**
-
-### Projetos Pessoais no GitHub
-
-- 📁 [Py-Crypt-Files](https://github.com/chaos4455/Py-Crypt-Files): Interface GUI para criptografia de arquivos (Python, PyQt5, cryptography)
-- 📁 [Py-Crypt-Messages](https://github.com/chaos4455/py-crypt-messages): Interface GUI para criptografia e descriptografia de mensagens usando RSA (Python, PyQt5, cryptography)
-- 📁 [Disparador de E-mails em Massa](https://github.com/chaos4455/Python-2023/tree/main/DISPARAEMAILAPP): Aplicativo Python para envio eficiente de e-mails em larga escala
-- 📁 [Gerador de Senha em PyQt5](https://github.com/chaos4455/passgen): Este é um aplicativo simples de gerador de senha criado usando PyQt5 em Python. 🛠️ ℹ️ 
----
-
-Este é o meu perfil tecnológico, destacando áreas específicas de expertise. Se estiver buscando um profissional versátil e inovador, estou pronto para contribuir em projetos desafiadores! 🚀
-
-## Let's Connect!
-- 📧 **Email:** [oeliasandrade@gmail.com](mailto:oeliasandrade@gmail.com)
-- 🔗 **LinkedIn Devops:** [linkedin.com/elias-andrade-devops](https://www.linkedin.com/in/elias-andrade-21574b2b4/)
-- 🐦 **Twitter:** [@Elias_devops](https://twitter.com/Elias_devops)
