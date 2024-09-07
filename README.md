@@ -17,22 +17,6 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
 - 📱 WhatsApp: +44 8859-7116
 - 🌐 LinkedIn: [Elias Andrade - LinkedIn Administrador de redes e infraestrutura](https://www.linkedin.com/in/itilmgf)
 
-# Currículos de Elias Andrade
-
-## 📄 Administrador de Redes e Infraestrutura / Analista DevOps
-
-[![Currículo Administrador de Redes e Infraestrutura / Analista DevOps](https://img.shields.io/badge/Currículo-Administrador_de_Redes_e_Infraestrutura_/_Analista_DevOps-blue)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/certificados/Curr%C3%ADculo%20Elias%20Andrade%20-%20Administrador%20de%20Redes%20e%20Infraestrutura%20%20Analista%20DevOps%20-%20Remoto.pdf)
-
-Este currículo abrange minhas habilidades e experiência como Administrador de Redes e Infraestrutura, destacando também meu conhecimento e experiência como Analista DevOps.
-
-## 🚀 Analista DevOps GitOps CI/CD Docker GitHub Kubernetes ArgoCD Platform Engineer
-
-[![Currículo Analista DevOps GitOps CI/CD Docker GitHub Kubernetes ArgoCD Platform Engineer](https://img.shields.io/badge/Currículo-Analista_DevOps_GitOps_CI_CD_Docker_GitHub_Kubernetes_ArgoCD_Platform_Engineer-green)](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/blob/main/certificados/Elias%20Andrade%20-%20Administrador%20de%20redes%20e%20infraestrutura%20%20Analista%20Devops%20-%20Gitops%20%20Platform%20Engineer%20-%20Remoto.pdf)
-
-Este currículo destaca minha especialização como Analista DevOps com foco em GitOps, CI/CD, Docker, GitHub, Kubernetes, ArgoCD e plataformas de engenharia.
-
-
-
 [Ver mi currículum 🇪🇸](https://github.com/chaos4455/Certifica-es/blob/main/resume_spanish.md)
 
 [View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
@@ -40,7 +24,6 @@ Este currículo destaca minha especialização como Analista DevOps com foco em 
 ### Portfólio de DevOps 2024 
 
 - 📁 [Devops-2024](https://github.com/elias-andrade-devops/Elias-Andrade-Devops-2024/): Este repositório contém projetos, scripts e documentações relacionadas ao meu portfólio de DevOps em 2024. Aqui você encontrará uma variedade de trabalhos, desde automação de infraestrutura até implementações de CI/CD e muito mais. 
-
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/Certifica-es)
 ![GitHub stars](https://img.shields.io/github/stars/chaos4455/Certifica-es?style=social)
