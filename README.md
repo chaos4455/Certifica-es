@@ -1,3 +1,10 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/Certifica-es)
+![GitHub stars](https://img.shields.io/github/stars/chaos4455/Certifica-es?style=social)
+![GitHub forks](https://img.shields.io/github/forks/chaos4455/Certifica-es?style=social)
+![GitHub issues](https://img.shields.io/github/issues/chaos4455/Certifica-es)
+![GitHub license](https://img.shields.io/github/license/chaos4455/Certifica-es)
+
+
 # Elias Andrade - Analista de infraestrutura - Devops 
 
 #### Objetivo
@@ -59,13 +66,6 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
 ### **5. Conhecimentos em Inteligência Artificial e Machine Learning**
 - [![AI-ML-LLM](https://img.shields.io/badge/AI%20%26%20ML%20Knowledge-%E2%9C%94-blueviolet)](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)
   - **Descrição:** Repositório dedicado ao estudo e aplicação de Inteligência Artificial, Machine Learning, LLM (Modelos de Linguagem de Grande Escala) e outras tecnologias emergentes. Inclui projetos, tutoriais e estudos de caso sobre IA e ML.
-
-![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/Certifica-es)
-![GitHub stars](https://img.shields.io/github/stars/chaos4455/Certifica-es?style=social)
-![GitHub forks](https://img.shields.io/github/forks/chaos4455/Certifica-es?style=social)
-![GitHub issues](https://img.shields.io/github/issues/chaos4455/Certifica-es)
-![GitHub license](https://img.shields.io/github/license/chaos4455/Certifica-es)
-
 <!-- Badges para Administração de Sistemas -->
 ### Administração de Sistemas
 ![Windows](https://img.shields.io/badge/-Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white) 
