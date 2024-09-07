@@ -42,20 +42,11 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
 - [![AI-ML-LLM](https://img.shields.io/badge/AI%20%26%20ML%20Knowledge-%E2%9C%94-blueviolet)](https://github.com/chaos4455/Python-Dev-BE-AI-ML-LLM-DEVOPS)
   - **Descrição:** Repositório dedicado ao estudo e aplicação de Inteligência Artificial, Machine Learning, LLM (Modelos de Linguagem de Grande Escala) e outras tecnologias emergentes. Inclui projetos, tutoriais e estudos de caso sobre IA e ML.
 
----
-
-Esses repositórios fornecem uma visão completa do meu trabalho e das minhas habilidades em diversas áreas da tecnologia, desde DevOps e infraestrutura até desenvolvimento e inteligência artificial. Sinta-se à vontade para explorar e revisar cada um deles para obter uma visão detalhada das minhas competências e experiências.
-
-Se precisar de mais informações ou quiser discutir algum projeto específico, entre em contato!
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/chaos4455/Certifica-es)
 ![GitHub stars](https://img.shields.io/github/stars/chaos4455/Certifica-es?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/chaos4455/Certifica-es?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/chaos4455/Certifica-es)
 ![GitHub license](https://img.shields.io/github/license/chaos4455/Certifica-es)
-
-
-<!-- Bloco de Badges em Markdown -->
 
 <!-- Badges para Administração de Sistemas -->
 ### Administração de Sistemas
