@@ -661,6 +661,23 @@ O [DockerCommandlets](https://github.com/chaos4455/DockerCommandlets) é um repo
 
 Em 2019, criei o repositório [Conhecimento](https://github.com/chaos4455/Conhecimento) com o objetivo de compartilhar um misto de cultura DevOps e outras informações úteis acumuladas ao longo dos anos. Este repositório contém uma variedade de comandos, tutoriais, arquivos de informação e comandlets que uso no meu dia a dia e que foram acumulados ao longo do tempo.
 
+# **Elias Andrade** 💻🚀
+
+Construído com muito amor e dedicação ❤️  
+Elias Andrade - 23/10/2024 - Maringá, Paraná  
+**Isadora, te amo filha do meu coração!** 👨‍👧💖  
+
+### "Não há conhecimento que não seja poder." 💎🦂
+
+## Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/itilmgf)  
+- [GitHub](https://github.com/evolucaoit)  
+
+## Repositórios:
+- [Chaos4455](https://github.com/chaos4455) 🎲💡  
+- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️  
+
+Feito com carinho e uma pitada de tecnologia, rsrsrs. 🚀❤️
 
 
 
