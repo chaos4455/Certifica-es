@@ -25,7 +25,7 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
 
 ![Image January 26, 2025 - 11 36PM](https://github.com/user-attachments/assets/cd292366-ac94-48c2-a605-721e3c327f07)
 
-<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/696f5a7e-6659-4afc-a6a2-fab4f7b55a70" />
+<img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/a30f954c-a130-4191-b698-21e92ac121fc" />
 
 <img width="899" alt="ImageGlass_H6LReBA9mz" src="https://github.com/user-attachments/assets/5415e79d-f733-425d-b3b1-a6d35c90a1ae" />
 
