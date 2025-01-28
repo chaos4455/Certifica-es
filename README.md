@@ -23,6 +23,13 @@ Estes repositórios representam meu compromisso com a inovação e eficiência a
 
 [View my resume 🇺🇸](https://github.com/chaos4455/Certifica-es/blob/main/english_resume.md)
 
+![Image January 26, 2025 - 11 36PM](https://github.com/user-attachments/assets/cd292366-ac94-48c2-a605-721e3c327f07)
+
+<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/696f5a7e-6659-4afc-a6a2-fab4f7b55a70" />
+
+<img width="899" alt="ImageGlass_H6LReBA9mz" src="https://github.com/user-attachments/assets/5415e79d-f733-425d-b3b1-a6d35c90a1ae" />
+
+
 ## 📈 Milestones e Realizações em Infraestrutura no meu emprego de longo prazo mais recente (2019-2023)
 
 - [![Tech_Milestones-2019-2023](https://img.shields.io/badge/Tech%20Milestones%202019--2023-%E2%9C%94-brightgreen)](https://github.com/chaos4455/Tech_milestones)
